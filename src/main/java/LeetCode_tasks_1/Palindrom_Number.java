@@ -1,6 +1,6 @@
 package LeetCode_tasks_1;
 
-https://leetcode.com/problems/palindrome-number/
+//https://leetcode.com/problems/palindrome-number/
 
 import java.util.ArrayList;
 
