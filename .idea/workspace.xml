@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_tasks_1/Roman_To_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_tasks_1/Length_of_Last_Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Roman_To_Integer">
+  <component name="RunManager" selected="Application.Length_of_Last_Word">
+    <configuration name="Length_of_Last_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_tasks_1.Length_of_Last_Word" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_tasks_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Palindrom_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_tasks_1.Palindrom_Number" />
       <module name="LeetCode" />
@@ -83,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Length_of_Last_Word" />
         <item itemvalue="Application.Roman_To_Integer" />
         <item itemvalue="Application.Palindrom_Number" />
       </list>
@@ -98,7 +112,8 @@
       <updated>1699187185648</updated>
       <workItem from="1699187187751" duration="512000" />
       <workItem from="1699198421892" duration="5305000" />
-      <workItem from="1699287798875" duration="3160000" />
+      <workItem from="1699287798875" duration="3672000" />
+      <workItem from="1699306990731" duration="1010000" />
     </task>
     <servers />
   </component>
@@ -107,5 +122,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_tasks_1/Length_of_Last_Word.java</url>
+          <line>7</line>
+          <properties class="LeetCode_tasks_1.Length_of_Last_Word" method="lengthOfLastWord">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
