@@ -1,4 +1,4 @@
-package LeetCode_tasks_1;
+package LeetCode_Easy;
 
 //https://leetcode.com/problems/roman-to-integer/
 
