@@ -1,4 +1,4 @@
-package LeetCode_tasks_1;
+package LeetCode_Easy;
 
 public class Two_Sum {
     public static void main(String[] args) {
