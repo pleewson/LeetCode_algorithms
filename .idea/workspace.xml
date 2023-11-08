@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_tasks_1/Length_of_Last_Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Length_of_Last_Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_tasks_1/Palindrom_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Palindrom_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_tasks_1/Roman_To_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Roman_To_Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_tasks_1/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Two_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +142,9 @@
       <workItem from="1699198421892" duration="5305000" />
       <workItem from="1699287798875" duration="3672000" />
       <workItem from="1699306990731" duration="1010000" />
-      <workItem from="1699368135647" duration="7353000" />
+      <workItem from="1699368135647" duration="8118000" />
+      <workItem from="1699459918817" duration="1244000" />
+      <workItem from="1699461232211" duration="3628000" />
     </task>
     <servers />
   </component>
@@ -168,19 +166,15 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
-          <line>12</line>
-          <properties class="LeetCode_Easy.Longest_Common_Prefix" method="longestCommonPrefix">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="10" />
+          <line>76</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
-          <line>70</line>
-          <option name="timeStamp" value="9" />
+          <line>48</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

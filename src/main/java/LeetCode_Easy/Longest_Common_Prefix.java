@@ -5,87 +5,75 @@ import java.util.ArrayList;
 public class Longest_Common_Prefix {
     public static void main(String[] args) {
 
-        String[] outputArr = {"flower","flow","flight"};
+        String[] outputArr = {"acc","aaa","aaba"};
         System.out.println(longestCommonPrefix(outputArr));
 
     }
 
     public static String longestCommonPrefix(String[] strs){
+        if(strs.length > 0) {
 
-        ArrayList<String> arrList = new ArrayList<>();
-
-        for(int i = 0; i < strs.length; i++){
-            arrList.add(strs[i]);
-        }
-
-        //if null -> 0
-        int lowestLength = arrList.get(0).length();
-
-
-        //set lowest length
-        for(int i = 0; i < arrList.size(); i++){
-            if(lowestLength > arrList.get(i).length()){
-                lowestLength = arrList.get(i).length();
+            //add strings into ArrayList
+            ArrayList<String> arrList = new ArrayList<>();
+            for (int i = 0; i < strs.length; i++) {
+                arrList.add(strs[i]);
             }
+
+            String output = arrList.get(0);
+
+
+            //set lowest length
+            int lowestLength = arrList.get(0).length();
+
+            for (int i = 0; i < arrList.size(); i++) {
+                if (lowestLength > arrList.get(i).length()) {
+                    lowestLength = arrList.get(i).length();
+                }
+            }
+
+
+            //if length == 1
+            if (output.length() == 1) {
+            for(int i = 0; i < arrList.size(); i++) {
+                    if (output.charAt(0) == arrList.get(i).charAt(0)) {
+                        output = String.valueOf(arrList.get(i).charAt(0));
+                    }else{
+                        return "";
+                    }
+                }
+            return output;
+            }
+
+
+            //head method
+            for (int i = 0; i < arrList.size(); i++) {
+                int sub = 0;
+                int j = 0;
+
+//think between //  //
+
+                while(j < lowestLength) {
+       //             if (j < output.length()) {
+                        if (output.charAt(0) != arrList.get(i).charAt(0)) {
+                            return "";
+                        } else if (output.charAt(j) == arrList.get(i).charAt(j)) {
+                            sub++;
+                            j++;
+                        } else {
+                            output.substring(0, sub);
+                            break;
+                        }
+
+                        output = output.substring(0, sub);
+      //              }
+                }
+            }
+
+            return output;
         }
 
-        System.out.println(lowestLength);
-//*** check all i < lowestLength
+        return null;
 
-
-//            if(strs.length == 3){
-//                str1 = strs[0];
-//                str2 = strs[1];
-//                str3 = strs[2];
-//
-//
-//            }else if(strs.length == 2){
-//                str1 = strs[0];
-//                str2 = strs[1];
-//            }else if(strs.length == 1){
-//                return strs[0];
-//            }else if(strs.length == 0){
-//                return "";
-//            }
-//
-//            if(str1 == "" || str2 == "" || str3 == ""){
-//                return "";
-//            }
-//
-//
-//        int largestLength = 0;
-//
-//        if(str1.length() <= str2.length()  &&  str1.length() <= str3.length()){
-//            largestLength = str1.length();
-//        }else if(str2.length() <= str1.length()  &&  str2.length() <= str3.length()){
-//            largestLength = str2.length();
-//        }else{
-//            largestLength = str3.length();
-//        }
-//
-//
-//        int a = 0;
-//
-//        String output = "";
-//
-//
-//
-//
-//                while(true){
-//                    if(str1.charAt(a) == str2.charAt(a)  &&  str1.charAt(a) == str3.charAt(a)  &&  str2.charAt(a) == str3.charAt(a)){
-//                        output += str1.charAt(a);
-//                    }else{
-//                        break;
-//                    }
-//
-//                    if(a < largestLength-1) {
-//                        a++;
-//                    }else{
-//                        break;
-//                    }
-//
-//                    }
-                return "";
                 }
     }
 
