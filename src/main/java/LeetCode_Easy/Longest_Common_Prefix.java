@@ -5,8 +5,7 @@ import java.util.ArrayList;
 public class Longest_Common_Prefix {
     public static void main(String[] args) {
 
-        //["abaa","abc","abca"] not work
-        String[] outputArr = {"abaa","abc","abca"};
+        String[] outputArr = {"dog","racecar","car"};
         System.out.println(longestCommonPrefix(outputArr));
 
     }
@@ -54,20 +53,34 @@ public class Longest_Common_Prefix {
                 }
             }
 
+            //making length of output = lowestlength (in letters) ofc
+            int sub = 0;
 
-            //head method
+            for(int Y = 0; Y < lowestLength; Y++) {
+                if (output.charAt(0) != arrList.get(1).charAt(0)) {
+                    return "";
+                } else if (output.charAt(Y) == arrList.get(1).charAt(Y)) {
+                    sub++;
+                } else {
+                    output.substring(0, sub);
+                    break;
+                }
+            }
+            output = output.substring(0, sub);
+
+            //checking everyLetter < output.length();
             for (int i = 0; i < arrList.size(); i++) {
                 if(arrList.get(i) == ""){   //i think i can delete it
                     return "";
                 }
 
-                int sub = 0;
-                int j = 0;
 
                 if (output.length() > 1) {
 
-//you must change it for output.length somehow. but first you must have length of shortest arrList value to not so as to not extend length of String
-                while(j < lowestLength) {
+                    sub = 0;
+                    int j = 0;
+
+                    while (j < output.length()) {
                         if (output.charAt(0) != arrList.get(i).charAt(0)) {
                             return "";
                         } else if (output.charAt(j) == arrList.get(i).charAt(j)) {
@@ -78,7 +91,9 @@ public class Longest_Common_Prefix {
                             break;
                         }
                     }
+
                     output = output.substring(0, sub);
+
                 }else{
                     if(output.charAt(0) == arrList.get(i).charAt(0)){
                      }else{
