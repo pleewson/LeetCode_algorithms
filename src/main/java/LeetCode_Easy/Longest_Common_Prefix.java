@@ -6,7 +6,7 @@ public class Longest_Common_Prefix {
     public static void main(String[] args) {
 
         //["abaa","abc","abca"] not work
-        String[] outputArr = {"acc","drakula","aaba",""};
+        String[] outputArr = {"abaa","abc","abca"};
         System.out.println(longestCommonPrefix(outputArr));
 
     }
@@ -57,7 +57,7 @@ public class Longest_Common_Prefix {
 
             //head method
             for (int i = 0; i < arrList.size(); i++) {
-                if(arrList.get(i) == ""){
+                if(arrList.get(i) == ""){   //i think i can delete it
                     return "";
                 }
 
