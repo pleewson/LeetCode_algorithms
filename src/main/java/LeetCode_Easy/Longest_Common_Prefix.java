@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Longest_Common_Prefix {
     public static void main(String[] args) {
 
-        String[] outputArr = {"acc","aaa","aaba"};
+        String[] outputArr = {"dog","racecar","car"};
         System.out.println(longestCommonPrefix(outputArr));
 
     }
@@ -44,16 +44,43 @@ public class Longest_Common_Prefix {
             return output;
             }
 
+            //if any value is ""
+            int value;
+            for(int i = 0; i < arrList.size(); i++){
+                value = arrList.get(i).length();
+                if(value == 0){
+                    return "";
+                }
+            }
 
-            //head method
+            //making length of output = lowestlength (in letters) ofc
+            int sub = 0;
+
+            for(int Y = 0; Y < lowestLength; Y++) {
+                if (output.charAt(0) != arrList.get(1).charAt(0)) {
+                    return "";
+                } else if (output.charAt(Y) == arrList.get(1).charAt(Y)) {
+                    sub++;
+                } else {
+                    output.substring(0, sub);
+                    break;
+                }
+            }
+            output = output.substring(0, sub);
+
+            //checking everyLetter < output.length();
             for (int i = 0; i < arrList.size(); i++) {
-                int sub = 0;
-                int j = 0;
+                if(arrList.get(i) == ""){   //i think i can delete it
+                    return "";
+                }
 
-//think between //  //
 
-                while(j < lowestLength) {
-       //             if (j < output.length()) {
+                if (output.length() > 1) {
+
+                    sub = 0;
+                    int j = 0;
+
+                    while (j < output.length()) {
                         if (output.charAt(0) != arrList.get(i).charAt(0)) {
                             return "";
                         } else if (output.charAt(j) == arrList.get(i).charAt(j)) {
@@ -63,9 +90,15 @@ public class Longest_Common_Prefix {
                             output.substring(0, sub);
                             break;
                         }
+                    }
 
-                        output = output.substring(0, sub);
-      //              }
+                    output = output.substring(0, sub);
+
+                }else{
+                    if(output.charAt(0) == arrList.get(i).charAt(0)){
+                     }else{
+                        return "";
+                    }
                 }
             }
 
