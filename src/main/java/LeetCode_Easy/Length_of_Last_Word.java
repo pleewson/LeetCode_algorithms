@@ -2,7 +2,7 @@ package LeetCode_Easy;
 
 public class Length_of_Last_Word {
     public static void main(String[] args) {
-        System.out.println(lengthOfLastWord("      a"));
+        System.out.println(lengthOfLastWord("   vevqer feqerq reffqerf fferw   vfdvfda"));
     }
 
     public static int lengthOfLastWord(String s){

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Longest_Common_Prefix {
     public static void main(String[] args) {
 
-        String[] outputArr = {"dog","racecar","car"};
+        String[] outputArr = {"flower","flow","florian"};
         System.out.println(longestCommonPrefix(outputArr));
 
     }

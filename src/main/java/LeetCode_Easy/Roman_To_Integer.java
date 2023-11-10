@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class Roman_To_Integer {
 
     public static void main(String[] args) {
-        System.out.println(romanToInt("MCMXCIV"));
+        System.out.println(romanToInt("VII"));
     }
 
 
