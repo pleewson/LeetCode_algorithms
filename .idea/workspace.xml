@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Search_Insert_Position.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Length_of_Last_Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Length_of_Last_Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Palindrom_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Palindrom_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Roman_To_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Roman_To_Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Two_Sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +59,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Longest_Common_Prefix">
+  <component name="RunManager" selected="Application.Search_Insert_Position">
     <configuration name="Length_of_Last_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Length_of_Last_Word" />
       <module name="LeetCode" />
@@ -107,6 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Search_Insert_Position" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Search_Insert_Position" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Two_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Two_Sum" />
       <module name="LeetCode" />
@@ -120,13 +132,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Search_Insert_Position" />
+      <item itemvalue="Application.Length_of_Last_Word" />
+      <item itemvalue="Application.Longest_Common_Prefix" />
+      <item itemvalue="Application.Palindrom_Number" />
+      <item itemvalue="Application.Roman_To_Integer" />
+      <item itemvalue="Application.Two_Sum" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Longest_Common_Prefix" />
-        <item itemvalue="Application.Two_Sum" />
         <item itemvalue="Application.Length_of_Last_Word" />
-        <item itemvalue="Application.Roman_To_Integer" />
+        <item itemvalue="Application.Longest_Common_Prefix" />
         <item itemvalue="Application.Palindrom_Number" />
+        <item itemvalue="Application.Roman_To_Integer" />
+        <item itemvalue="Application.Two_Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +165,8 @@
       <workItem from="1699368135647" duration="8118000" />
       <workItem from="1699459918817" duration="1244000" />
       <workItem from="1699461232211" duration="6616000" />
-      <workItem from="1699541670889" duration="4223000" />
+      <workItem from="1699541670889" duration="6039000" />
+      <workItem from="1699641236699" duration="1760000" />
     </task>
     <servers />
   </component>
@@ -167,15 +188,24 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
-          <line>110</line>
-          <option name="timeStamp" value="9" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Two_Sum.java</url>
+          <line>13</line>
+          <properties class="LeetCode_Easy.Two_Sum" method="twoSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="27" />
+          <line>109</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Search_Insert_Position.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
