@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Plus_One.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Plus_One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Plus_One.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +161,7 @@
       <workItem from="1699459918817" duration="1244000" />
       <workItem from="1699461232211" duration="6616000" />
       <workItem from="1699541670889" duration="6039000" />
-      <workItem from="1699641236699" duration="4776000" />
+      <workItem from="1699641236699" duration="8235000" />
     </task>
     <servers />
   </component>
@@ -192,15 +192,6 @@
           </properties>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Plus_One.java</url>
-          <line>15</line>
-          <properties class="LeetCode_Easy.Plus_One" method="plusOne">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
           <line>109</line>
@@ -208,8 +199,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Plus_One.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="33" />
+          <line>42</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
