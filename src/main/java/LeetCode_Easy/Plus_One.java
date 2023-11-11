@@ -1,39 +1,35 @@
 package LeetCode_Easy;
 
-import java.util.ArrayList;
+
 import java.util.Arrays;
 
 public class Plus_One {
     public static void main(String[] args) {
 
-        int[] digits = {4,9,9};
+        int[] digits = {9,9,9};
         System.out.println(Arrays.toString(plusOne(digits)));
 
-        System.out.println(520 / );
 
     }
 
     public static int [] plusOne(int[] digits){
 
-        String num = "";
+        digits[digits.length-1] = digits[digits.length-1] +1;
 
-        for(int i = 0; i < digits.length; i++){
-            num += digits[i];
+        for(int i = digits.length-1; i > 0; i--){
+            if(digits[i] == 10){
+                digits[i] = 0;
+                digits[i-1] = digits[i-1]+1;
+            }
         }
 
-        int value = Integer.parseInt(num);
-        value = value +1;
-
-        String valueInString = String.valueOf(value);
-
-        int[] outputArr = new int[valueInString.length()];
-
-        for(int i = 0; i < outputArr.length; i++){
-            outputArr[i] = valueInString.charAt(i);
+        if(digits[0] == 10){
+            digits = Arrays.copyOf(digits, digits.length+1);
+            digits[0] = 1;
+            digits[1] = 0;
         }
 
-
-//999 1000
         return digits;
+
     }
 }
