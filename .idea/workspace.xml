@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Valid_Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Valid_Parentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,35 +55,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Valid_Palindrome">
+  <component name="RunManager" selected="Application.Valid_Parentheses">
     <configuration name="Contains_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Contains_Duplicate" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Length_of_Last_Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Length_of_Last_Word" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Plus_One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Plus_One" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -134,22 +109,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Valid_Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Valid_Parentheses" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Single_Number" />
       <item itemvalue="Application.Search_Insert_Position" />
+      <item itemvalue="Application.Valid_Parentheses" />
+      <item itemvalue="Application.test" />
       <item itemvalue="Application.Valid_Palindrome" />
       <item itemvalue="Application.Contains_Duplicate" />
       <item itemvalue="Application.Remove_Element" />
-      <item itemvalue="Application.Plus_One" />
-      <item itemvalue="Application.Length_of_Last_Word" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Valid_Parentheses" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Valid_Palindrome" />
         <item itemvalue="Application.Contains_Duplicate" />
         <item itemvalue="Application.Remove_Element" />
-        <item itemvalue="Application.Plus_One" />
-        <item itemvalue="Application.Length_of_Last_Word" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +176,7 @@
       <workItem from="1699986954112" duration="516000" />
       <workItem from="1699996964310" duration="1177000" />
       <workItem from="1700566871668" duration="1181000" />
-      <workItem from="1700692357429" duration="785000" />
+      <workItem from="1700692357429" duration="7102000" />
     </task>
     <servers />
   </component>
@@ -238,6 +239,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_Element.java</url>
           <line>27</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Valid_Parentheses.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
