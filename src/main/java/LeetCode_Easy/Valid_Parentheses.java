@@ -2,10 +2,12 @@ package LeetCode_Easy;
 
 //not accepted
 
+import java.util.Stack;
+
 public class Valid_Parentheses {
     public static void main(String[] args) {
 
-        String input = "({{{{}}}))";
+        String input = "()[]{}";
         System.out.println(isValid(input));
 
     }
@@ -15,55 +17,20 @@ public class Valid_Parentheses {
             return false;
         }
 
-        char[] charArray = s.toCharArray();
+        Stack<Character> brackets = new Stack<>();
 
-        //if first index "close" bracket
-        if (charArray[0] == ')' || charArray[0] == ']' || charArray[0] == '}') {
-            return false;
-        }
-        //if last index "open" bracket
-        if (charArray[s.length() - 1] == '(' || charArray[s.length() - 1] == '[' || charArray[s.length() - 1] == '{') {
-            return false;
-        }
-
-
-        for (int i = 0, j = charArray.length - 1; i < charArray.length - 1; i++, j--) {
-
-            if (charArray[i] == '(') {
-                if (charArray[i + 1] == ')' || charArray[j] == ')' || charArray[charArray.length / 2] == ')') {
-                } else {
-                    return false;
-                }
-            } else if (charArray[i] == '[') {
-                if (charArray[i + 1] == ']' || charArray[j] == ']' || charArray[charArray.length / 2] == ']') {
-                } else {
-                    return false;
-                }
-            } else if (charArray[i] == '{') {
-                if (charArray[i + 1] == '}' || charArray[j] == '}' || charArray[charArray.length / 2] == '}') {
-                } else {
-                    return false;
-                }
-
-
-//            } else if (charArray[i] == ')') {
-//                if (charArray[i - 1] != '(') {
-//                    return false;
-//                }
-//            } else if (charArray[i] == ']') {
-//                if (charArray[i - 1] != '[') {
-//                    return false;
-//                }
-//            } else if (charArray[i] == '}') {
-//                if (charArray[i - 1] != '{') {
-//                    return false;
+        for(char ch : s.toCharArray()){
+            //every single next index of s
+            switch(ch){
 
             }
         }
 
+
         return true;
     }
 }
+
 
 
 //Example 1:
