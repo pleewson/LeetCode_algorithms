@@ -10,10 +10,6 @@ public class test {
         videoGames.add("Super mario bros");
         videoGames.add("Smash bros ultimate");
         videoGames.add("Luigi Mansions 3");
-
-       // System.out.println(videoGames);
-       // videoGames.pop();
-        //videoGames.push("God of war");
         videoGames.add("God of war");
         System.out.println(videoGames);
     }
