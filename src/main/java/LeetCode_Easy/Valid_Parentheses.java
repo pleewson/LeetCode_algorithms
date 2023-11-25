@@ -7,7 +7,7 @@ import java.util.Stack;
 public class Valid_Parentheses {
     public static void main(String[] args) {
 
-        String input = "()[]{}";
+        String input = "{([][])}";
         System.out.println(isValid(input));
 
     }
@@ -17,20 +17,36 @@ public class Valid_Parentheses {
             return false;
         }
 
-        Stack<Character> brackets = new Stack<>();
+        Stack<Character> stack = new Stack<>();
 
-        for(char ch : s.toCharArray()){
-            //every single next index of s
-            switch(ch){
-
+        for (char ch : s.toCharArray()) {
+            switch (ch) {
+                case '(':
+                case '{':
+                case '[':
+                    stack.push(ch);
+                    break;
+                case ')':
+                    if (stack.isEmpty() || stack.pop() != '(') {
+                        return false;
+                    }
+                    break;
+                case '}':
+                    if (stack.isEmpty() || stack.pop() != '{') {
+                        return false;
+                    }
+                    break;
+                case ']':
+                    if (stack.isEmpty() || stack.pop() != '[') {
+                        return false;
+                    }
+                    break;
             }
         }
 
-
-        return true;
+        return stack.isEmpty();
     }
 }
-
 
 
 //Example 1:
