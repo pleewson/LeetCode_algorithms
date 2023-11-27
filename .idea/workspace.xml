@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Add_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Valid_Parentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,23 +42,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/adrianplewa/Documents/GitHub/LeetCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.test">
-    <configuration name="Contains_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Contains_Duplicate" />
+    <configuration name="Add_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Add_Digits" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Remove_Element" />
+    <configuration name="Contains_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Contains_Duplicate" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -138,19 +143,19 @@
     <list>
       <item itemvalue="Application.Single_Number" />
       <item itemvalue="Application.Search_Insert_Position" />
+      <item itemvalue="Application.Add_Digits" />
       <item itemvalue="Application.Valid_Parentheses" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Valid_Palindrome" />
       <item itemvalue="Application.Contains_Duplicate" />
-      <item itemvalue="Application.Remove_Element" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.Add_Digits" />
         <item itemvalue="Application.Valid_Parentheses" />
         <item itemvalue="Application.Valid_Palindrome" />
         <item itemvalue="Application.Contains_Duplicate" />
-        <item itemvalue="Application.Remove_Element" />
       </list>
     </recent_temporary>
   </component>
@@ -176,12 +181,25 @@
       <workItem from="1699986954112" duration="516000" />
       <workItem from="1699996964310" duration="1177000" />
       <workItem from="1700566871668" duration="1181000" />
-      <workItem from="1700692357429" duration="7871000" />
+      <workItem from="1700692357429" duration="8263000" />
+      <workItem from="1700865602273" duration="624000" />
+      <workItem from="1700907798650" duration="5445000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -239,6 +257,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_Element.java</url>
           <line>27</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/test.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
