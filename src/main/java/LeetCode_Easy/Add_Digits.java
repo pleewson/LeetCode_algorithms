@@ -26,7 +26,7 @@ public class Add_Digits {
                 charArray = Integer.toString(sum).toCharArray();
                 sum = 0;
             }
-
+//fd3
         }
     }
 }
