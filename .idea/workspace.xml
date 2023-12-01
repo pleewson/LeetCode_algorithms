@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Add_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Add_Digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,10 +140,10 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Add_Digits" />
-      <item itemvalue="Application.Contains_Duplicate" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Add_Digits" />
+      <item itemvalue="Application.Contains_Duplicate" />
       <item itemvalue="Application.Valid_Palindrome" />
       <item itemvalue="Application.Valid_Parentheses" />
       <item itemvalue="Application.test" />
@@ -182,6 +183,7 @@
       <workItem from="1700692357429" duration="8263000" />
       <workItem from="1700865602273" duration="624000" />
       <workItem from="1700907798650" duration="5445000" />
+      <workItem from="1701432241812" duration="14000" />
     </task>
     <servers />
   </component>
@@ -255,11 +257,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_Element.java</url>
           <line>27</line>
           <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/test.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

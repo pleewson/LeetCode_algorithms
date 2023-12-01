@@ -18,4 +18,6 @@ public class test2 {
     public static void staticMethod(){
         System.out.println("statyczna metoda zostala wywolana");
     }
+
+    //homework
 }
