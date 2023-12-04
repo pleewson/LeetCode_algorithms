@@ -19,5 +19,5 @@ public class test2 {
         System.out.println("statyczna metoda zostala wywolana");
     }
 
-    //lesson.coderslab_02
+    //pr
 }
