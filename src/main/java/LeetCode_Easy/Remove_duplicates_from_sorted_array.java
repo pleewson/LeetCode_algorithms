@@ -15,12 +15,15 @@ public class Remove_duplicates_from_sorted_array {
         TreeSet<Integer> set = new TreeSet<>();
         Iterator<Integer> iterator = set.iterator();
         int[] noDuplicatesArray = new int[nums.length];
+        ArrayList<Integer> arrayList = new ArrayList<>();
 
         for (int i = 0; i < nums.length; i++) {
             set.add(nums[i]);
         }
 
-          System.out.println(set +" -> set przed for");
+        System.out.println(arrayList + " -> array list");
+
+        System.out.println(set + " -> set przed for");
         for (int i = 0; i < set.size(); i++) {
             if (iterator.hasNext()) {
                 noDuplicatesArray[i] = iterator.next();
@@ -39,4 +42,3 @@ public class Remove_duplicates_from_sorted_array {
         return numberOfDuplicates;
     }
 }
-

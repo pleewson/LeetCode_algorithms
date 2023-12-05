@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_duplicates_from_sorted_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_duplicates_from_sorted_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_duplicates_from_sorted_array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +185,7 @@
       <workItem from="1701432241812" duration="14000" />
       <workItem from="1701557626211" duration="70000" />
       <workItem from="1701641220134" duration="83000" />
-      <workItem from="1701729492121" duration="4809000" />
+      <workItem from="1701729492121" duration="5305000" />
     </task>
     <servers />
   </component>
@@ -259,16 +259,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_Element.java</url>
           <line>27</line>
           <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_duplicates_from_sorted_array.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_duplicates_from_sorted_array.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
