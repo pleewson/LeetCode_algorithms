@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Count_of_matches_in_tournament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.Count_of_matches_in_tournament">
     <configuration name="Add_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Add_Digits" />
       <module name="LeetCode" />
@@ -71,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Contains_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Contains_Duplicate" />
+    <configuration name="Count_of_matches_in_tournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Count_of_matches_in_tournament" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -140,19 +141,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Count_of_matches_in_tournament" />
       <item itemvalue="Application.Add_Digits" />
-      <item itemvalue="Application.Contains_Duplicate" />
       <item itemvalue="Application.Valid_Palindrome" />
       <item itemvalue="Application.Valid_Parentheses" />
       <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_of_matches_in_tournament" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Add_Digits" />
         <item itemvalue="Application.Valid_Parentheses" />
         <item itemvalue="Application.Valid_Palindrome" />
-        <item itemvalue="Application.Contains_Duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +185,7 @@
       <workItem from="1701432241812" duration="14000" />
       <workItem from="1701557626211" duration="70000" />
       <workItem from="1701641220134" duration="83000" />
-      <workItem from="1701729492121" duration="8000" />
+      <workItem from="1701729492121" duration="1465000" />
     </task>
     <servers />
   </component>
