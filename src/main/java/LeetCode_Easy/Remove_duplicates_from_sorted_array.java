@@ -8,7 +8,7 @@ public class Remove_duplicates_from_sorted_array {
         int[] array = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
 
         System.out.println(removeDuplicates(array));
-        //pr
+        //tomorrow
 
     }
 
