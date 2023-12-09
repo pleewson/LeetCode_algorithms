@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_duplicates_from_sorted_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_duplicates_from_sorted_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,6 +187,7 @@
       <workItem from="1701641220134" duration="83000" />
       <workItem from="1701729492121" duration="5916000" />
       <workItem from="1702076003923" duration="10000" />
+      <workItem from="1702162565771" duration="24000" />
     </task>
     <servers />
   </component>

@@ -18,7 +18,7 @@ public class test {
         System.out.println(sum);
     }
 
-
+//tmrstrt
 //    //metody klasy test
 //    public void instantMethod(){
 //        System.out.println("instancyjna metoda zostala wywolana");
