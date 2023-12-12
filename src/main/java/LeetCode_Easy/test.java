@@ -1,7 +1,4 @@
 package LeetCode_Easy;
-
-import java.util.Stack;
-
 public class test {
 
     public static void main(String[] args) {
@@ -18,7 +15,7 @@ public class test {
         System.out.println(sum);
     }
 
-
+//tmrstrt
 //    //metody klasy test
 //    public void instantMethod(){
 //        System.out.println("instancyjna metoda zostala wywolana");
