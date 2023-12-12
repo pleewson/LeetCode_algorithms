@@ -1,4 +1,4 @@
-package LeetCode_Easy;
+package LeetCode_Daily;
 
 public class Count_of_matches_in_tournament {
     public static void main(String[] args) {
