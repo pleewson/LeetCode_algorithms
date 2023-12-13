@@ -9,7 +9,7 @@ public class Maximum_Product_of_Two_Elements_in_an_Array {
 
 
     public static int maxProduct(int[] nums) {
-        
+
         int firstBigValue = 0;
         int firstIndex = 0;
 
