@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Special_Positions_in_a_Binary_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Difference_Between_Ones_and_Zeros_in_Row_and_Colum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Maximum_Product_of_Two_Elements_in_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Maximum_Product_of_Two_Elements_in_an_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +58,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Special_Positions_in_a_Binary_Matrix">
+  <component name="RunManager" selected="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum">
     <configuration name="Count_of_matches_in_tournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Count_of_matches_in_tournament" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Difference_Between_Ones_and_Zeros_in_Row_and_Colum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -126,35 +138,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.test" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
       <item itemvalue="Application.Special_Positions_in_a_Binary_Matrix" />
       <item itemvalue="Application.Maximum_Product_of_Two_Elements_in_an_Array" />
       <item itemvalue="Application.Count_of_matches_in_tournament" />
       <item itemvalue="Application.Remove_duplicates_from_sorted_array" />
-      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
         <item itemvalue="Application.Special_Positions_in_a_Binary_Matrix" />
         <item itemvalue="Application.Maximum_Product_of_Two_Elements_in_an_Array" />
         <item itemvalue="Application.Remove_duplicates_from_sorted_array" />
         <item itemvalue="Application.Count_of_matches_in_tournament" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +189,8 @@
       <workItem from="1702076003923" duration="10000" />
       <workItem from="1702162565771" duration="24000" />
       <workItem from="1702376134009" duration="2298000" />
-      <workItem from="1702466195136" duration="2692000" />
+      <workItem from="1702466195136" duration="3373000" />
+      <workItem from="1702553609386" duration="1464000" />
     </task>
     <servers />
   </component>
@@ -251,9 +251,9 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Special_Positions_in_a_Binary_Matrix.java</url>
-          <line>17</line>
-          <properties class="LeetCode_Daily.Special_Positions_in_a_Binary_Matrix" method="numSpecial">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Difference_Between_Ones_and_Zeros_in_Row_and_Colum.java</url>
+          <line>23</line>
+          <properties class="LeetCode_Daily.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" method="onesMinusZeros">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
