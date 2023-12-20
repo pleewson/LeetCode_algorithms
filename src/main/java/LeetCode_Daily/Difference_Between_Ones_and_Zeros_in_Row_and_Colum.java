@@ -63,8 +63,4 @@ public class Difference_Between_Ones_and_Zeros_in_Row_and_Colum {
 
         return outputArr;
     }
-
-    //brd2
-
-
 }
