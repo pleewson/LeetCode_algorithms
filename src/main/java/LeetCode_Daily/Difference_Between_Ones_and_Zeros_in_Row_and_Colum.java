@@ -5,9 +5,8 @@ public class Difference_Between_Ones_and_Zeros_in_Row_and_Colum {
     public static void main(String[] args) {
 
         int[][] arr = {
-                {1,1,1},
-                {1,1,1}
-
+                {1, 1, 1},
+                {1, 1, 1}
         };
 
 
@@ -24,12 +23,12 @@ public class Difference_Between_Ones_and_Zeros_in_Row_and_Colum {
 
     public static int[][] onesMinusZeros(int[][] grid) {
 
-        int[][] outputArr = new int[grid.length][grid.length];
+        int[][] outputArr = new int[grid.length][grid[0].length];
 
         for (int i = 0; i < grid.length; i++) {
             int columnIndex = 0;
 
-            while (columnIndex < grid.length) {
+            while (columnIndex < grid[0].length) {
 
                 int onesRow = 0;
                 int zerosRow = 0;
@@ -44,9 +43,10 @@ public class Difference_Between_Ones_and_Zeros_in_Row_and_Colum {
                     } else if (grid[i][j] == 1) {
                         onesRow++;
                     }
+                }
 
-                    //columns
-                    
+                //columns
+                for (int j = 0; j < grid.length; j++) {
                     if (grid[j][columnIndex] == 0) {
                         zeroesCol++;
                     } else if (grid[j][columnIndex] == 1) {
