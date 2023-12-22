@@ -26,13 +26,12 @@ public class Difference_Between_Ones_and_Zeros_in_Row_and_Colum {
 
         //finished here -it will be solution. First add every calculation(row and columns) into
         //different temporary Arrays then calculate their values and add them into outputArray.
-        
 //        int[] tempColArr = new int[grid[0].length];
 //        int colPoss = 0;
 
         //[1][1][-1] row
         //[-1][-1][3] col
-
+//bd
         int[][] outputArr = new int[grid.length][grid[0].length];
         int[] tempColArr = new int[grid[0].length];
 
