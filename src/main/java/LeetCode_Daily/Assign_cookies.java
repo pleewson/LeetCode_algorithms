@@ -30,33 +30,28 @@ public class Assign_cookies {
 
 
         for (int i = 0; i < g.length; i++) {
-            int minForCurrentChild = g[i];
-            int currentChild = g[i];
+            int minForCurrentChild = Integer.MAX_VALUE;
+            boolean removeIndex = false;
 
             if (cookies.size() == 0) {
                 return happyKids;
             }
 
             for (int j = 0; j < cookies.size(); j++) {
-
-                if(cookies.get(j) == minForCurrentChild){
+                if (cookies.get(j) < minForCurrentChild && cookies.get(j) >= g[i]) {
+                    minForCurrentChild = cookies.get(j);
                     minIndex = j;
-                    break;
-                }else if (cookies.get(j) >= minForCurrentChild) {
-                        minForCurrentChild = cookies.get(j);  //this is wrong.? think here
-                        minIndex = j;
-                    }
+                    removeIndex = true;
                 }
             }
 
+            if (removeIndex == true) {
                 cookies.remove(minIndex);
                 happyKids++;
-
+            }
 
         }
 
         return happyKids;
-
     }
 }
-
