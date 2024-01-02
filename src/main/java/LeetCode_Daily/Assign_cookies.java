@@ -2,6 +2,7 @@ package LeetCode_Daily;
 
 import java.util.ArrayList;
 
+// https://leetcode.com/problems/assign-cookies/?envType=daily-question&envId=2024-01-01
 public class Assign_cookies {
     public static void main(String[] args) {
 

@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Convert_an_Array_Into_a_2D_Array_With_Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Assign_cookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Assign_cookies.java" afterDir="false" />
     </list>
@@ -58,7 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Assign_cookies">
+  <component name="RunManager" selected="Application.Convert_an_Array_Into_a_2D_Array_With_Conditions">
     <configuration name="Assign_Cookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Assign_Cookies" />
       <module name="LeetCode" />
@@ -85,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Difference_Between_Ones_and_Zeros_in_Row_and_Colum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
+    <configuration name="Convert_an_Array_Into_a_2D_Array_With_Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Convert_an_Array_Into_a_2D_Array_With_Conditions" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Product_of_Two_Elements_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Maximum_Product_of_Two_Elements_in_an_Array" />
+    <configuration name="Difference_Between_Ones_and_Zeros_in_Row_and_Colum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Special_Positions_in_a_Binary_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Special_Positions_in_a_Binary_Matrix" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.test" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -141,19 +143,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Convert_an_Array_Into_a_2D_Array_With_Conditions" />
+      <item itemvalue="Application.test" />
       <item itemvalue="Application.Assign_Cookies" />
       <item itemvalue="Application.Assign_cookies" />
       <item itemvalue="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
-      <item itemvalue="Application.Special_Positions_in_a_Binary_Matrix" />
-      <item itemvalue="Application.Maximum_Product_of_Two_Elements_in_an_Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Convert_an_Array_Into_a_2D_Array_With_Conditions" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Assign_cookies" />
         <item itemvalue="Application.Assign_Cookies" />
         <item itemvalue="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
-        <item itemvalue="Application.Special_Positions_in_a_Binary_Matrix" />
-        <item itemvalue="Application.Maximum_Product_of_Two_Elements_in_an_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +205,8 @@
       <workItem from="1703969612238" duration="28000" />
       <workItem from="1704149569418" duration="5805000" />
       <workItem from="1704156814993" duration="405000" />
-      <workItem from="1704233748111" duration="800000" />
+      <workItem from="1704233748111" duration="1387000" />
+      <workItem from="1704235656993" duration="3301000" />
     </task>
     <servers />
   </component>
@@ -289,8 +292,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Assign_cookies.java</url>
-          <line>31</line>
+          <line>32</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Convert_an_Array_Into_a_2D_Array_With_Conditions.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
