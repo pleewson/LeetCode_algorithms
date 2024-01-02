@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Assign_Cookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Assign_cookies.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +58,22 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum">
-    <configuration name="Count_of_matches_in_tournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Count_of_matches_in_tournament" />
+  <component name="RunManager" selected="Application.Assign_cookies">
+    <configuration name="Assign_Cookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Assign_Cookies" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assign_cookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Assign_cookies" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -86,19 +100,6 @@
     </configuration>
     <configuration name="Maximum_Product_of_Two_Elements_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Maximum_Product_of_Two_Elements_in_an_Array" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Remove_duplicates_from_sorted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Remove_duplicates_from_sorted_array" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -140,19 +141,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Assign_Cookies" />
+      <item itemvalue="Application.Assign_cookies" />
       <item itemvalue="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
       <item itemvalue="Application.Special_Positions_in_a_Binary_Matrix" />
       <item itemvalue="Application.Maximum_Product_of_Two_Elements_in_an_Array" />
-      <item itemvalue="Application.Count_of_matches_in_tournament" />
-      <item itemvalue="Application.Remove_duplicates_from_sorted_array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Assign_cookies" />
+        <item itemvalue="Application.Assign_Cookies" />
         <item itemvalue="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
         <item itemvalue="Application.Special_Positions_in_a_Binary_Matrix" />
         <item itemvalue="Application.Maximum_Product_of_Two_Elements_in_an_Array" />
-        <item itemvalue="Application.Remove_duplicates_from_sorted_array" />
-        <item itemvalue="Application.Count_of_matches_in_tournament" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +201,7 @@
       <workItem from="1703176690491" duration="8492000" />
       <workItem from="1703275440194" duration="605000" />
       <workItem from="1703969612238" duration="28000" />
+      <workItem from="1704149569418" duration="5805000" />
     </task>
     <servers />
   </component>
@@ -282,6 +284,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_Element.java</url>
           <line>27</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Assign_cookies.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
