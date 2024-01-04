@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="" />
+    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Find_The_Index_of_the_First_Occurate_in_a_String.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Convert_an_Array_Into_a_2D_Array_With_Conditions">
+  <component name="RunManager" selected="Application.Find_The_Index_of_the_First_Occurate_in_a_String">
     <configuration name="Assign_Cookies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Assign_Cookies" />
       <module name="LeetCode" />
@@ -95,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Difference_Between_Ones_and_Zeros_in_Row_and_Colum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
+    <configuration name="Find_The_Index_of_the_First_Occurate_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Find_The_Index_of_the_First_Occurate_in_a_String" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="PATTERN" value="LeetCode_Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +140,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Find_The_Index_of_the_First_Occurate_in_a_String" />
       <item itemvalue="Application.Convert_an_Array_Into_a_2D_Array_With_Conditions" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Assign_Cookies" />
       <item itemvalue="Application.Assign_cookies" />
-      <item itemvalue="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find_The_Index_of_the_First_Occurate_in_a_String" />
         <item itemvalue="Application.Convert_an_Array_Into_a_2D_Array_With_Conditions" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Assign_cookies" />
         <item itemvalue="Application.Assign_Cookies" />
-        <item itemvalue="Application.Difference_Between_Ones_and_Zeros_in_Row_and_Colum" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +205,7 @@
       <workItem from="1704233748111" duration="1387000" />
       <workItem from="1704235656993" duration="4027000" />
       <workItem from="1704306625741" duration="41000" />
+      <workItem from="1704409122395" duration="934000" />
     </task>
     <servers />
   </component>
