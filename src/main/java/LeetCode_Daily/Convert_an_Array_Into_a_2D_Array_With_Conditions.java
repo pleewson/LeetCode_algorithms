@@ -46,5 +46,4 @@ public class Convert_an_Array_Into_a_2D_Array_With_Conditions {
 
         return list2D;
     }
-
 }
