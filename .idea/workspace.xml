@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Find_The_Index_of_the_First_Occurate_in_a_String.java" afterDir="false" />
-    </list>
+    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +203,7 @@
       <workItem from="1704233748111" duration="1387000" />
       <workItem from="1704235656993" duration="4027000" />
       <workItem from="1704306625741" duration="41000" />
-      <workItem from="1704409122395" duration="934000" />
+      <workItem from="1704409122395" duration="1827000" />
     </task>
     <servers />
   </component>
