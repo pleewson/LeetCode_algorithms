@@ -4,7 +4,7 @@ public class Determine_if_String_Halves_Are_Alike {
     public static void main(String[] args) {
 
         System.out.println(halvesAreAlike("book"));
-        System.out.println(halvesAreAlike2());
+        System.out.println(halvesAreAlike2("thomas"));
 
     }
 
