@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="" />
+    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/alogirhm_today.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Merge_Sorted_Array.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -56,7 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Unique_Number_of_Occurrences">
+  <component name="RunManager" selected="Application.Merge_Sorted_Array">
     <configuration name="Determine_if_String_Halves_Are_Alike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Determine_if_String_Halves_Are_Alike" />
       <module name="LeetCode" />
@@ -70,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_Two_Sorted_Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Merge_Two_Sorted_Lists" />
+    <configuration name="Merge_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Merge_Sorted_Array" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -139,19 +143,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Merge_Sorted_Array" />
       <item itemvalue="Application.Unique_Number_of_Occurrences" />
       <item itemvalue="Application.Determine_if_String_Halves_Are_Alike" />
       <item itemvalue="Application.Range_Sum_of_BST" />
       <item itemvalue="Application.Remove_duplicates_from_sorted_array" />
-      <item itemvalue="Application.Merge_Two_Sorted_Lists" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge_Sorted_Array" />
         <item itemvalue="Application.Unique_Number_of_Occurrences" />
         <item itemvalue="Application.Determine_if_String_Halves_Are_Alike" />
         <item itemvalue="Application.Range_Sum_of_BST" />
         <item itemvalue="Application.Remove_duplicates_from_sorted_array" />
-        <item itemvalue="Application.Merge_Two_Sorted_Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +218,7 @@
       <workItem from="1705095890068" duration="2086000" />
       <workItem from="1705098198348" duration="2000" />
       <workItem from="1705486064795" duration="5479000" />
+      <workItem from="1705704842941" duration="2560000" />
     </task>
     <servers />
   </component>
@@ -290,6 +295,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Merge_Sorted_Array.java</url>
+          <line>14</line>
+          <properties class="LeetCode_Easy.Merge_Sorted_Array" method="merge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
