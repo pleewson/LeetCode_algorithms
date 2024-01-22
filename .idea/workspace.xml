@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Set_Mismatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/alogirhm_today.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Merge_Sorted_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Merge_Sorted_Array">
+  <component name="RunManager" selected="Application.Set_Mismatch">
     <configuration name="Determine_if_String_Halves_Are_Alike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Determine_if_String_Halves_Are_Alike" />
       <module name="LeetCode" />
@@ -100,22 +100,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_duplicates_from_sorted_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Remove_duplicates_from_sorted_array" />
+    <configuration name="Search_Insert_Position" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Search_Insert_Position" />
       <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_Insert_Position" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Search_Insert_Position" />
+    <configuration name="Set_Mismatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Set_Mismatch" />
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,19 +143,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Set_Mismatch" />
       <item itemvalue="Application.Merge_Sorted_Array" />
       <item itemvalue="Application.Unique_Number_of_Occurrences" />
       <item itemvalue="Application.Determine_if_String_Halves_Are_Alike" />
       <item itemvalue="Application.Range_Sum_of_BST" />
-      <item itemvalue="Application.Remove_duplicates_from_sorted_array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Set_Mismatch" />
         <item itemvalue="Application.Merge_Sorted_Array" />
         <item itemvalue="Application.Unique_Number_of_Occurrences" />
         <item itemvalue="Application.Determine_if_String_Halves_Are_Alike" />
         <item itemvalue="Application.Range_Sum_of_BST" />
-        <item itemvalue="Application.Remove_duplicates_from_sorted_array" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,8 @@
       <workItem from="1705095890068" duration="2086000" />
       <workItem from="1705098198348" duration="2000" />
       <workItem from="1705486064795" duration="5479000" />
-      <workItem from="1705704842941" duration="2560000" />
+      <workItem from="1705704842941" duration="4105000" />
+      <workItem from="1705935397235" duration="1541000" />
     </task>
     <servers />
   </component>
@@ -297,13 +298,13 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Merge_Sorted_Array.java</url>
-          <line>14</line>
-          <properties class="LeetCode_Easy.Merge_Sorted_Array" method="merge">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Set_Mismatch.java</url>
+          <line>15</line>
+          <properties class="LeetCode_Daily.Set_Mismatch" method="findErrorNums">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="62" />
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
