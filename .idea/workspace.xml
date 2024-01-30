@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nodes/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Evaluate_Reverse_Polish_Notation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.Evaluate_Reverse_Polish_Notation">
+    <configuration name="Evaluate_Reverse_Polish_Notation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Evaluate_Reverse_Polish_Notation" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Find_First_and_Last_Position_of_Element_in_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Medium.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
       <module name="LeetCode" />
@@ -81,19 +93,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode_Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Merge_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Merge_Sorted_Array" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,19 +143,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Evaluate_Reverse_Polish_Notation" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
       <item itemvalue="Application.Maximum_Length_of_a_Concatenated_String_with_Unique_Characters" />
       <item itemvalue="Application.Set_Mismatch" />
-      <item itemvalue="Application.Merge_Sorted_Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Evaluate_Reverse_Polish_Notation" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
         <item itemvalue="Application.Maximum_Length_of_a_Concatenated_String_with_Unique_Characters" />
         <item itemvalue="Application.Set_Mismatch" />
-        <item itemvalue="Application.Merge_Sorted_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +224,8 @@
       <workItem from="1706464511084" duration="726000" />
       <workItem from="1706465241716" duration="1952000" />
       <workItem from="1706517051244" duration="4989000" />
+      <workItem from="1706567532141" duration="199000" />
+      <workItem from="1706600737885" duration="1782000" />
     </task>
     <servers />
   </component>
@@ -310,6 +311,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Evaluate_Reverse_Polish_Notation.java</url>
+          <line>10</line>
+          <properties class="LeetCode_Daily.Evaluate_Reverse_Polish_Notation" method="evalRPN">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
