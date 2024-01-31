@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Evaluate_Reverse_Polish_Notation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Evaluate_Reverse_Polish_Notation">
+  <component name="RunManager" selected="Application.Daily_Temperatures">
+    <configuration name="Daily_Temperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Daily_Temperatures" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Evaluate_Reverse_Polish_Notation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Evaluate_Reverse_Polish_Notation" />
       <module name="LeetCode" />
@@ -107,19 +120,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set_Mismatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Set_Mismatch" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Single_Number" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Single_Number" />
       <module name="LeetCode" />
@@ -143,19 +143,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Daily_Temperatures" />
       <item itemvalue="Application.Evaluate_Reverse_Polish_Notation" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
       <item itemvalue="Application.Maximum_Length_of_a_Concatenated_String_with_Unique_Characters" />
-      <item itemvalue="Application.Set_Mismatch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Daily_Temperatures" />
         <item itemvalue="Application.Evaluate_Reverse_Polish_Notation" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
         <item itemvalue="Application.Maximum_Length_of_a_Concatenated_String_with_Unique_Characters" />
-        <item itemvalue="Application.Set_Mismatch" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +225,8 @@
       <workItem from="1706465241716" duration="1952000" />
       <workItem from="1706517051244" duration="4989000" />
       <workItem from="1706567532141" duration="199000" />
-      <workItem from="1706600737885" duration="1782000" />
+      <workItem from="1706600737885" duration="2156000" />
+      <workItem from="1706739448940" duration="3505000" />
     </task>
     <servers />
   </component>
@@ -312,15 +313,6 @@
           </properties>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Evaluate_Reverse_Polish_Notation.java</url>
-          <line>10</line>
-          <properties class="LeetCode_Daily.Evaluate_Reverse_Polish_Notation" method="evalRPN">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
           <line>109</line>
@@ -345,6 +337,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Remove_duplicates_from_sorted_array.java</url>
           <line>17</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
