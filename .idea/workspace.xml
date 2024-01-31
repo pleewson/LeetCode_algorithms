@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +226,7 @@
       <workItem from="1706517051244" duration="4989000" />
       <workItem from="1706567532141" duration="199000" />
       <workItem from="1706600737885" duration="2156000" />
-      <workItem from="1706739448940" duration="1809000" />
+      <workItem from="1706739448940" duration="3505000" />
     </task>
     <servers />
   </component>
@@ -340,8 +340,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java</url>
-          <line>14</line>
+          <line>39</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
