@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Divide_Array_Into_Arrays_With_Max_Difference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
       <list>
         <option value="package-info" />
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,7 +61,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Divide_Array_Into_Arrays_With_Max_Difference">
+  <component name="RunManager" selected="Application.Sequential_Digits">
     <configuration name="Daily_Temperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Daily_Temperatures" />
       <module name="LeetCode" />
@@ -101,22 +101,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_First_and_Last_Position_of_Element_in_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Medium.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
+    <configuration name="Search_Insert_Position" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Search_Insert_Position" />
       <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_Insert_Position" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Search_Insert_Position" />
+    <configuration name="Sequential_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Sequential_Digits" />
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -144,19 +144,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Sequential_Digits" />
       <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
       <item itemvalue="Application.Daily_Temperatures" />
       <item itemvalue="Application.Evaluate_Reverse_Polish_Notation" />
       <item itemvalue="Application.test" />
-      <item itemvalue="Application.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sequential_Digits" />
         <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
         <item itemvalue="Application.Daily_Temperatures" />
         <item itemvalue="Application.Evaluate_Reverse_Polish_Notation" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +228,8 @@
       <workItem from="1706567532141" duration="199000" />
       <workItem from="1706600737885" duration="2156000" />
       <workItem from="1706739448940" duration="3505000" />
-      <workItem from="1706784017729" duration="2313000" />
+      <workItem from="1706784017729" duration="3300000" />
+      <workItem from="1706868282130" duration="3804000" />
     </task>
     <servers />
   </component>
@@ -349,6 +350,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java</url>
           <line>14</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
