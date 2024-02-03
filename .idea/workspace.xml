@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +229,9 @@
       <workItem from="1706600737885" duration="2156000" />
       <workItem from="1706739448940" duration="3505000" />
       <workItem from="1706784017729" duration="3300000" />
-      <workItem from="1706868282130" duration="3804000" />
+      <workItem from="1706868282130" duration="4740000" />
+      <workItem from="1706950302562" duration="804000" />
+      <workItem from="1707000738177" duration="16000" />
     </task>
     <servers />
   </component>
@@ -316,6 +318,15 @@
           </properties>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java</url>
+          <line>11</line>
+          <properties class="LeetCode_Daily.Sequential_Digits" method="sequentialDigits">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
           <line>109</line>
@@ -353,7 +364,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java</url>
-          <line>28</line>
+          <line>29</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
