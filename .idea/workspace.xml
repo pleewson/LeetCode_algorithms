@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/First_Unique_Character_in_a_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Group_Anagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.First_Unique_Character_in_a_String">
+  <component name="RunManager" selected="Application.Group_Anagrams">
     <configuration name="Daily_Temperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Daily_Temperatures" />
       <module name="LeetCode" />
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Evaluate_Reverse_Polish_Notation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Evaluate_Reverse_Polish_Notation" />
+    <configuration name="First_Unique_Character_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.First_Unique_Character_in_a_String" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First_Unique_Character_in_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.First_Unique_Character_in_a_String" />
+    <configuration name="Group_Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Group_Anagrams" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -145,19 +145,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Group_Anagrams" />
       <item itemvalue="Application.First_Unique_Character_in_a_String" />
       <item itemvalue="Application.Sequential_Digits" />
       <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
       <item itemvalue="Application.Daily_Temperatures" />
-      <item itemvalue="Application.Evaluate_Reverse_Polish_Notation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Group_Anagrams" />
         <item itemvalue="Application.First_Unique_Character_in_a_String" />
         <item itemvalue="Application.Sequential_Digits" />
         <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
         <item itemvalue="Application.Daily_Temperatures" />
-        <item itemvalue="Application.Evaluate_Reverse_Polish_Notation" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +235,9 @@
       <workItem from="1707000738177" duration="16000" />
       <workItem from="1707078446321" duration="67000" />
       <workItem from="1707167585410" duration="1624000" />
+      <workItem from="1707239768040" duration="2506000" />
+      <workItem from="1707242434006" duration="1474000" />
+      <workItem from="1707243917192" duration="2406000" />
     </task>
     <servers />
   </component>
@@ -378,6 +381,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java</url>
           <line>29</line>
           <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Group_Anagrams.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Group_Anagrams.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
