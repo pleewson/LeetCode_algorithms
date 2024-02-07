@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Group_Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sort_Characters_By_Frequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,20 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Group_Anagrams">
-    <configuration name="Daily_Temperatures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Daily_Temperatures" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Sort_Characters_By_Frequency">
     <configuration name="Divide_Array_Into_Arrays_With_Max_Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Divide_Array_Into_Arrays_With_Max_Difference" />
       <module name="LeetCode" />
@@ -142,22 +129,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sort_Characters_By_Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Sort_Characters_By_Frequency" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Sort_Characters_By_Frequency" />
       <item itemvalue="Application.Group_Anagrams" />
       <item itemvalue="Application.First_Unique_Character_in_a_String" />
       <item itemvalue="Application.Sequential_Digits" />
       <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
-      <item itemvalue="Application.Daily_Temperatures" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sort_Characters_By_Frequency" />
         <item itemvalue="Application.Group_Anagrams" />
         <item itemvalue="Application.First_Unique_Character_in_a_String" />
         <item itemvalue="Application.Sequential_Digits" />
         <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
-        <item itemvalue="Application.Daily_Temperatures" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +237,8 @@
       <workItem from="1707167585410" duration="1624000" />
       <workItem from="1707239768040" duration="2506000" />
       <workItem from="1707242434006" duration="1474000" />
-      <workItem from="1707243917192" duration="2406000" />
+      <workItem from="1707243917192" duration="3352000" />
+      <workItem from="1707328146476" duration="3632000" />
     </task>
     <servers />
   </component>
@@ -381,16 +382,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java</url>
           <line>29</line>
           <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Group_Anagrams.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/Group_Anagrams.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
