@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Majority_Element.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Majority_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Majority_Element.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +62,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Rearrange_Array_Elements_by_Sign">
-    <configuration name="Group_Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.Group_Anagrams" />
+  <component name="RunManager" selected="Application.Majority_Element">
+    <configuration name="Majority_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Majority_Element" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="PATTERN" value="LeetCode_Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +145,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Majority_Element" />
       <item itemvalue="Application.Rearrange_Array_Elements_by_Sign" />
       <item itemvalue="Application.Sort_Colors" />
       <item itemvalue="Application.Perfect_Squares" />
       <item itemvalue="Application.Sort_Characters_By_Frequency" />
-      <item itemvalue="Application.Group_Anagrams" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Majority_Element" />
         <item itemvalue="Application.Rearrange_Array_Elements_by_Sign" />
         <item itemvalue="Application.Sort_Colors" />
         <item itemvalue="Application.Perfect_Squares" />
         <item itemvalue="Application.Sort_Characters_By_Frequency" />
-        <item itemvalue="Application.Group_Anagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +241,7 @@
       <workItem from="1707328146476" duration="8091000" />
       <workItem from="1707681028182" duration="3056000" />
       <workItem from="1707943216387" duration="1035000" />
-      <workItem from="1708381299376" duration="983000" />
+      <workItem from="1708381299376" duration="2534000" />
     </task>
     <servers />
   </component>
@@ -390,6 +390,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Medium/Sort_Colors.java</url>
           <line>16</line>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Majority_Element.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
