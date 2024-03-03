@@ -1,4 +1,4 @@
-package LeetCode_Daily;
+package LeetCode_Daily.year2023;
 
 public class Difference_Between_Ones_and_Zeros_in_Row_and_Colum {
 

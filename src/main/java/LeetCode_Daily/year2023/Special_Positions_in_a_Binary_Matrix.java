@@ -1,4 +1,4 @@
-package LeetCode_Daily;
+package LeetCode_Daily.year2023;
 
 public class Special_Positions_in_a_Binary_Matrix {
 

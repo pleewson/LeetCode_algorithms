@@ -1,4 +1,4 @@
-package LeetCode_Daily;
+package LeetCode_Daily.year2023;
 
 public class Count_of_matches_in_tournament {
     public static void main(String[] args) {
