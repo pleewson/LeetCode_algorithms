@@ -1,4 +1,4 @@
-package LeetCode_Daily;
+package LeetCode_Daily.year2023;
 
 public class Determine_if_String_Halves_Are_Alike {
     public static void main(String[] args) {

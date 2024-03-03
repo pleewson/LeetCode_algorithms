@@ -1,4 +1,4 @@
-package LeetCode_Daily;
+package LeetCode_Daily.year2023;
 
 public class Maximum_Product_of_Two_Elements_in_an_Array {
     public static void main(String[] args) {
