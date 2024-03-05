@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Remove_Nth_Node_From_End_of_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Minimum_Length_of_String_After_Deleting_Similar_Ends.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Assign_cookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Assign_cookies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Convert_an_Array_Into_a_2D_Array_With_Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Convert_an_Array_Into_a_2D_Array_With_Conditions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Count_of_matches_in_tournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Count_of_matches_in_tournament.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Daily_Temperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Daily_Temperatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Determine_if_String_Halves_Are_Alike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Determine_if_String_Halves_Are_Alike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Difference_Between_Ones_and_Zeros_in_Row_and_Colum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Difference_Between_Ones_and_Zeros_in_Row_and_Colum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Divide_Array_Into_Arrays_With_Max_Difference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Divide_Array_Into_Arrays_With_Max_Difference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Evaluate_Reverse_Polish_Notation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Evaluate_Reverse_Polish_Notation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/First_Unique_Character_in_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/First_Unique_Character_in_a_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Group_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Group_Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Maximum_Product_of_Two_Elements_in_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Maximum_Product_of_Two_Elements_in_an_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Perfect_Squares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Perfect_Squares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Range_Sum_of_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Range_Sum_of_BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Rearrange_Array_Elements_by_Sign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Rearrange_Array_Elements_by_Sign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sequential_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Sequential_Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Set_Mismatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Set_Mismatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Sort_Characters_By_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Sort_Characters_By_Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Special_Positions_in_a_Binary_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Special_Positions_in_a_Binary_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Unique_Number_of_Occurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2023/Unique_Number_of_Occurrences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Remove_Nth_Node_From_End_of_List">
+  <component name="RunManager" selected="Application.Minimum_Length_of_String_After_Deleting_Similar_Ends">
     <configuration name="Majority_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Majority_Element" />
       <module name="LeetCode" />
@@ -95,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perfect_Squares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2023.Perfect_Squares" />
+    <configuration name="Minimum_Length_of_String_After_Deleting_Similar_Ends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2023.*" />
+          <option name="PATTERN" value="LeetCode_Daily.march2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +145,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
       <item itemvalue="Application.Remove_Nth_Node_From_End_of_List" />
       <item itemvalue="Application.Majority_Element" />
       <item itemvalue="Application.Rearrange_Array_Elements_by_Sign" />
       <item itemvalue="Application.Sort_Colors" />
-      <item itemvalue="Application.Perfect_Squares" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
         <item itemvalue="Application.Remove_Nth_Node_From_End_of_List" />
         <item itemvalue="Application.Majority_Element" />
         <item itemvalue="Application.Rearrange_Array_Elements_by_Sign" />
         <item itemvalue="Application.Sort_Colors" />
-        <item itemvalue="Application.Perfect_Squares" />
       </list>
     </recent_temporary>
   </component>
@@ -263,6 +244,7 @@
       <workItem from="1708381299376" duration="2887000" />
       <workItem from="1709391136039" duration="981000" />
       <workItem from="1709479538589" duration="1501000" />
+      <workItem from="1709546451426" duration="7764000" />
     </task>
     <servers />
   </component>
@@ -375,6 +357,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Remove_Nth_Node_From_End_of_List.java</url>
+          <line>6</line>
+          <properties class="LeetCode_Daily.march2024.Remove_Nth_Node_From_End_of_List" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
