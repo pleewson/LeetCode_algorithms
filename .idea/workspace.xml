@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Linked_List_Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nodes/ListNodeCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Middle_of_the_Linked_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Minimum_Length_of_String_After_Deleting_Similar_Ends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Minimum_Length_of_String_After_Deleting_Similar_Ends.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Linked_List_Cycle">
+  <component name="RunManager" selected="Application.Middle_of_the_Linked_List">
     <configuration name="Linked_List_Cycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Linked_List_Cycle" />
       <module name="LeetCode" />
@@ -91,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Length_of_String_After_Deleting_Similar_Ends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
+    <configuration name="Middle_of_the_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Middle_of_the_Linked_List" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rearrange_Array_Elements_by_Sign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2023.Rearrange_Array_Elements_by_Sign" />
+    <configuration name="Minimum_Length_of_String_After_Deleting_Similar_Ends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2023.*" />
+          <option name="PATTERN" value="LeetCode_Daily.march2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +145,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Middle_of_the_Linked_List" />
       <item itemvalue="Application.Linked_List_Cycle" />
       <item itemvalue="Application.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
       <item itemvalue="Application.Remove_Nth_Node_From_End_of_List" />
       <item itemvalue="Application.Majority_Element" />
-      <item itemvalue="Application.Rearrange_Array_Elements_by_Sign" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Middle_of_the_Linked_List" />
         <item itemvalue="Application.Linked_List_Cycle" />
         <item itemvalue="Application.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
         <item itemvalue="Application.Remove_Nth_Node_From_End_of_List" />
         <item itemvalue="Application.Majority_Element" />
-        <item itemvalue="Application.Rearrange_Array_Elements_by_Sign" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +246,8 @@
       <workItem from="1709479538589" duration="1501000" />
       <workItem from="1709546451426" duration="9449000" />
       <workItem from="1709679229601" duration="11000" />
-      <workItem from="1709718611838" duration="4410000" />
+      <workItem from="1709718611838" duration="4591000" />
+      <workItem from="1709810218920" duration="338000" />
     </task>
     <servers />
   </component>
@@ -382,7 +381,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Linked_List_Cycle.java</url>
-          <line>22</line>
+          <line>23</line>
           <properties class="LeetCode_Daily.march2024.Linked_List_Cycle" method="hasCycle">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
