@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Middle_of_the_Linked_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Count_Elements_With_Maximum_Frequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,9 +62,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Middle_of_the_Linked_List">
-    <configuration name="Linked_List_Cycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Linked_List_Cycle" />
+  <component name="RunManager" selected="Application.Count_Elements_With_Maximum_Frequency">
+    <configuration name="Count_Elements_With_Maximum_Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Count_Elements_With_Maximum_Frequency" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Majority_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Majority_Element" />
+    <configuration name="Linked_List_Cycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Linked_List_Cycle" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Easy.*" />
+          <option name="PATTERN" value="LeetCode_Daily.march2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +145,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
       <item itemvalue="Application.Middle_of_the_Linked_List" />
       <item itemvalue="Application.Linked_List_Cycle" />
       <item itemvalue="Application.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
       <item itemvalue="Application.Remove_Nth_Node_From_End_of_List" />
-      <item itemvalue="Application.Majority_Element" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
         <item itemvalue="Application.Middle_of_the_Linked_List" />
         <item itemvalue="Application.Linked_List_Cycle" />
         <item itemvalue="Application.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
         <item itemvalue="Application.Remove_Nth_Node_From_End_of_List" />
-        <item itemvalue="Application.Majority_Element" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +247,8 @@
       <workItem from="1709546451426" duration="9449000" />
       <workItem from="1709679229601" duration="11000" />
       <workItem from="1709718611838" duration="4591000" />
-      <workItem from="1709810218920" duration="338000" />
+      <workItem from="1709810218920" duration="1644000" />
+      <workItem from="1709897738945" duration="1906000" />
     </task>
     <servers />
   </component>
@@ -387,6 +388,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Middle_of_the_Linked_List.java</url>
+          <line>15</line>
+          <properties class="LeetCode_Daily.march2024.Middle_of_the_Linked_List" method="middleNode">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
