@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Count_Elements_With_Maximum_Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Minimum_Common_Value.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Count_Elements_With_Maximum_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Count_Elements_With_Maximum_Frequency.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Count_Elements_With_Maximum_Frequency">
+  <component name="RunManager" selected="Application.Minimum_Common_Value">
     <configuration name="Count_Elements_With_Maximum_Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Count_Elements_With_Maximum_Frequency" />
       <module name="LeetCode" />
@@ -102,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Length_of_String_After_Deleting_Similar_Ends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
+    <configuration name="Minimum_Common_Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Minimum_Common_Value" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Nth_Node_From_End_of_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Remove_Nth_Node_From_End_of_List" />
+    <configuration name="Minimum_Length_of_String_After_Deleting_Similar_Ends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -145,19 +146,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Minimum_Common_Value" />
       <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
       <item itemvalue="Application.Middle_of_the_Linked_List" />
       <item itemvalue="Application.Linked_List_Cycle" />
       <item itemvalue="Application.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
-      <item itemvalue="Application.Remove_Nth_Node_From_End_of_List" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Minimum_Common_Value" />
         <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
         <item itemvalue="Application.Middle_of_the_Linked_List" />
         <item itemvalue="Application.Linked_List_Cycle" />
         <item itemvalue="Application.Minimum_Length_of_String_After_Deleting_Similar_Ends" />
-        <item itemvalue="Application.Remove_Nth_Node_From_End_of_List" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +249,8 @@
       <workItem from="1709679229601" duration="11000" />
       <workItem from="1709718611838" duration="4591000" />
       <workItem from="1709810218920" duration="1644000" />
-      <workItem from="1709897738945" duration="1906000" />
+      <workItem from="1709897738945" duration="2358000" />
+      <workItem from="1709986382474" duration="1701000" />
     </task>
     <servers />
   </component>
