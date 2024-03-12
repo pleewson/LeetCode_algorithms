@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Custom_Sort_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Custom_Sort_String">
+  <component name="RunManager" selected="Application.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List">
     <configuration name="Count_Elements_With_Maximum_Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Count_Elements_With_Maximum_Frequency" />
       <module name="LeetCode" />
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Middle_of_the_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Middle_of_the_Linked_List" />
+    <configuration name="Minimum_Common_Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Minimum_Common_Value" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Common_Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Minimum_Common_Value" />
+    <configuration name="Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -145,19 +145,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" />
       <item itemvalue="Application.Custom_Sort_String" />
       <item itemvalue="Application.Intersection_of_Two_Arrays" />
       <item itemvalue="Application.Minimum_Common_Value" />
       <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
-      <item itemvalue="Application.Middle_of_the_Linked_List" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" />
         <item itemvalue="Application.Custom_Sort_String" />
         <item itemvalue="Application.Intersection_of_Two_Arrays" />
         <item itemvalue="Application.Minimum_Common_Value" />
         <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
-        <item itemvalue="Application.Middle_of_the_Linked_List" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +253,9 @@
       <workItem from="1710067819485" duration="1109000" />
       <workItem from="1710068968629" duration="32000" />
       <workItem from="1710150940408" duration="3041000" />
+      <workItem from="1710154647751" duration="36000" />
+      <workItem from="1710242605898" duration="5025000" />
+      <workItem from="1710247786255" duration="12000" />
     </task>
     <servers />
   </component>
@@ -402,6 +405,15 @@
           </properties>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.java</url>
+          <line>19</line>
+          <properties class="LeetCode_Daily.march2024.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" method="removeZeroSumSublists">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
           <line>109</line>
@@ -451,6 +463,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Custom_Sort_String.java</url>
           <line>23</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
