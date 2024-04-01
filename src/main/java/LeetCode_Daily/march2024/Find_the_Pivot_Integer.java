@@ -24,7 +24,7 @@ public class Find_the_Pivot_Integer {
             }
         }
 
-//scrum d14
+//scrum d15
         return -1;
     }
 }
