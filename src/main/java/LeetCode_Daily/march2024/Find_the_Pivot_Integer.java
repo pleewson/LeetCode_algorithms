@@ -24,7 +24,7 @@ public class Find_the_Pivot_Integer {
             }
         }
 
-//tmr bk
+//ld
         return -1;
     }
 }
