@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Integer_to_Roman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Integer_to_Roman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/april2024/Nth_Tribonacci_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Integer_to_Roman">
+  <component name="RunManager" selected="Application.Nth_Tribonacci_Number">
     <configuration name="Custom_Sort_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Custom_Sort_String" />
       <module name="LeetCode" />
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Intersection_of_Two_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Intersection_of_Two_Arrays" />
+    <configuration name="Nth_Tribonacci_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.april2024.Nth_Tribonacci_Number" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.march2024.*" />
+          <option name="PATTERN" value="LeetCode_Daily.april2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,19 +145,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Nth_Tribonacci_Number" />
       <item itemvalue="Application.Integer_to_Roman" />
       <item itemvalue="Application.Find_the_Pivot_Integer" />
       <item itemvalue="Application.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" />
       <item itemvalue="Application.Custom_Sort_String" />
-      <item itemvalue="Application.Intersection_of_Two_Arrays" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nth_Tribonacci_Number" />
         <item itemvalue="Application.Integer_to_Roman" />
         <item itemvalue="Application.Find_the_Pivot_Integer" />
         <item itemvalue="Application.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" />
         <item itemvalue="Application.Custom_Sort_String" />
-        <item itemvalue="Application.Intersection_of_Two_Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +292,7 @@
       <workItem from="1713474586062" duration="35000" />
       <workItem from="1713563070253" duration="4000" />
       <workItem from="1713626960016" duration="5000" />
-      <workItem from="1713909088543" duration="25000" />
+      <workItem from="1713909088543" duration="2997000" />
     </task>
     <servers />
   </component>
@@ -518,6 +519,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Medium/Integer_to_Roman.java</url>
           <line>11</line>
           <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/april2024/Nth_Tribonacci_Number.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="92" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
