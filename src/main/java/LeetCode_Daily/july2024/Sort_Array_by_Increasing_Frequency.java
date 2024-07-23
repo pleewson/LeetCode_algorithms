@@ -22,7 +22,7 @@ public class Sort_Array_by_Increasing_Frequency {
         HashMap<Integer, Integer> sortedMap = map.entrySet()
                 .stream()
                 .sorted(Map.Entry.<Integer, Integer>comparingByValue()
-                        .thenComparing(Map.Entry::getKey).reversed())
+                        .thenComparing(Map.Entry::getKey, Comparator.reverseOrder()))
                 .collect(Collectors.toMap(
                         Map.Entry::getKey,
                         Map.Entry::getValue,
