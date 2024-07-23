@@ -4,7 +4,7 @@ import nodes.MyQueue;
 
 import java.util.Stack;
 
-public class test {
+public class Test {
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
         MyQueue myQueue = new MyQueue();
