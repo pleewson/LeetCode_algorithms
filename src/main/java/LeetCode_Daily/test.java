@@ -3,7 +3,6 @@ public class test {
 
     public static void main(String[] args) {
 
-//hibernate, spring boot
     }
 
 }
