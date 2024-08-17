@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/july2024/Sort_Array_by_Increasing_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/july2024/Sort_Array_by_Increasing_Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Longest_Substring_Without_Repeating_Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/september2024/Maximum_Number_of_Points_with_Cost.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +67,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sort_Array_by_Increasing_Frequency">
-    <configuration name="Find_the_Pivot_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Find_the_Pivot_Integer" />
+  <component name="RunManager" selected="Application.Longest_Substring_Without_Repeating_Characters">
+    <configuration name="Longest_Substring_Without_Repeating_Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Medium.Longest_Substring_Without_Repeating_Characters" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.march2024.*" />
+          <option name="PATTERN" value="LeetCode_Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Integer_to_Roman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Medium.Integer_to_Roman" />
+    <configuration name="Maximum_Distance_in_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.september2024.Maximum_Distance_in_Arrays" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Medium.*" />
+          <option name="PATTERN" value="LeetCode_Daily.september2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maximum_Number_of_Points_with_Cost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.september2024.Maximum_Number_of_Points_with_Cost" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.september2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,19 +113,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode_Daily.april2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.march2024.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.march2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +150,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Longest_Substring_Without_Repeating_Characters" />
+      <item itemvalue="Application.Maximum_Number_of_Points_with_Cost" />
+      <item itemvalue="Application.Maximum_Distance_in_Arrays" />
       <item itemvalue="Application.Sort_Array_by_Increasing_Frequency" />
       <item itemvalue="Application.Nth_Tribonacci_Number" />
-      <item itemvalue="Application.Integer_to_Roman" />
-      <item itemvalue="Application.Find_the_Pivot_Integer" />
-      <item itemvalue="Application.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Longest_Substring_Without_Repeating_Characters" />
+        <item itemvalue="Application.Maximum_Number_of_Points_with_Cost" />
+        <item itemvalue="Application.Maximum_Distance_in_Arrays" />
         <item itemvalue="Application.Sort_Array_by_Increasing_Frequency" />
         <item itemvalue="Application.Nth_Tribonacci_Number" />
-        <item itemvalue="Application.Integer_to_Roman" />
-        <item itemvalue="Application.Find_the_Pivot_Integer" />
-        <item itemvalue="Application.Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +315,9 @@
       <workItem from="1721756814337" duration="1549000" />
       <workItem from="1721758790576" duration="58000" />
       <workItem from="1721758893054" duration="260000" />
-      <workItem from="1721759506847" duration="5772000" />
+      <workItem from="1721759506847" duration="6646000" />
+      <workItem from="1723842283317" duration="4106000" />
+      <workItem from="1723889840257" duration="3733000" />
     </task>
     <servers />
   </component>
@@ -542,11 +544,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Medium/Integer_to_Roman.java</url>
           <line>11</line>
           <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/july2024/Sort_Array_by_Increasing_Frequency.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
