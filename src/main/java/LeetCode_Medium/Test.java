@@ -1,7 +1,10 @@
 package LeetCode_Medium;
 
+import nodes.ListNode;
 import nodes.MyQueue;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Stack;
 
 public class Test {
@@ -19,13 +22,11 @@ public class Test {
         myQueue.push(4);
         myQueue.push(5);
 
-        System.out.println(myQueue.getInputStacksize());
+//        System.out.println(myQueue.getInputStacksize());
 
         myQueue.peek();
 
-        System.out.println(myQueue.getInputStacksize());
-
-
+//        System.out.println(myQueue.getInputStacksize());
 
 
     }

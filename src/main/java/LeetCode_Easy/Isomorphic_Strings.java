@@ -3,6 +3,8 @@ package LeetCode_Easy;
 import java.util.HashMap;
 import java.util.Map;
 
+//https://leetcode.com/problems/isomorphic-strings/description/
+//accepted
 public class Isomorphic_Strings {
     public static void main(String[] args) {
         String str1 = "paper";
