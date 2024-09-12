@@ -28,6 +28,6 @@ public class Test {
 
 //        System.out.println(myQueue.getInputStacksize());
 
-
+        System.out.println('a' == 'a');
     }
 }
