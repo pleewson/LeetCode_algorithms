@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/september2024/Count_the_Number_of_Consistent_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Fizz_Buzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Count_the_Number_of_Consistent_Strings">
+  <component name="RunManager" selected="Application.Fizz_Buzz">
     <configuration name="Count_the_Number_of_Consistent_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.september2024.Count_the_Number_of_Consistent_Strings" />
       <module name="LeetCode" />
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Delete_Nodes_From_Linked_List_Present_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.september2024.Delete_Nodes_From_Linked_List_Present_in_Array" />
+    <configuration name="Fizz_Buzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Fizz_Buzz" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.september2024.*" />
+          <option name="PATTERN" value="LeetCode_Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,19 +150,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Fizz_Buzz" />
       <item itemvalue="Application.Count_the_Number_of_Consistent_Strings" />
       <item itemvalue="Application.Insert_Greatest_Common_Divisors_in_Linked_List" />
       <item itemvalue="Application.test" />
-      <item itemvalue="Application.Delete_Nodes_From_Linked_List_Present_in_Array" />
       <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fizz_Buzz" />
         <item itemvalue="Application.Count_the_Number_of_Consistent_Strings" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Insert_Greatest_Common_Divisors_in_Linked_List" />
-        <item itemvalue="Application.Delete_Nodes_From_Linked_List_Present_in_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +322,9 @@
       <workItem from="1724241076901" duration="2079000" />
       <workItem from="1725633756918" duration="11113000" />
       <workItem from="1725953274397" duration="5459000" />
-      <workItem from="1726148299538" duration="1215000" />
+      <workItem from="1726148299538" duration="1999000" />
+      <workItem from="1726249816789" duration="1000" />
+      <workItem from="1726661524092" duration="313000" />
     </task>
     <servers />
   </component>
@@ -492,13 +493,13 @@
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/september2024/Count_the_Number_of_Consistent_Strings.java</url>
-          <line>11</line>
-          <properties class="LeetCode_Daily.september2024.Count_the_Number_of_Consistent_Strings" method="countConsistentStrings">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Fizz_Buzz.java</url>
+          <line>19</line>
+          <properties class="LeetCode_Easy.Fizz_Buzz" method="fizzBuzz">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="101" />
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
