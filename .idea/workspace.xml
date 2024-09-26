@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Easy/Fizz_Buzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/september2024/My_Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,13 +69,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Fizz_Buzz">
-    <configuration name="Count_the_Number_of_Consistent_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.september2024.Count_the_Number_of_Consistent_Strings" />
+  <component name="RunManager" selected="Application.My_Calendar">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.Fibonacci" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.september2024.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,8 +96,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insert_Greatest_Common_Divisors_in_Linked_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.september2024.Insert_Greatest_Common_Divisors_in_Linked_List" />
+    <configuration name="Lexographical_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.september2024.Lexographical_Number" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.september2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.september2024.My_Calendar" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -121,25 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Medium.Test" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.test" />
+      <option name="MAIN_CLASS_NAME" value="training.test" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +152,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
-      <item itemvalue="Application.Fizz_Buzz" />
-      <item itemvalue="Application.Count_the_Number_of_Consistent_Strings" />
-      <item itemvalue="Application.Insert_Greatest_Common_Divisors_in_Linked_List" />
+      <item itemvalue="Application.My_Calendar" />
       <item itemvalue="Application.test" />
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Fibonacci" />
+      <item itemvalue="Application.Lexographical_Number" />
+      <item itemvalue="Application.Fizz_Buzz" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fizz_Buzz" />
-        <item itemvalue="Application.Count_the_Number_of_Consistent_Strings" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.My_Calendar" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Insert_Greatest_Common_Divisors_in_Linked_List" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Lexographical_Number" />
+        <item itemvalue="Application.Fizz_Buzz" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +326,11 @@
       <workItem from="1725953274397" duration="5459000" />
       <workItem from="1726148299538" duration="1999000" />
       <workItem from="1726249816789" duration="1000" />
-      <workItem from="1726661524092" duration="313000" />
+      <workItem from="1726661524092" duration="965000" />
+      <workItem from="1726912206425" duration="2177000" />
+      <workItem from="1727090048887" duration="95000" />
+      <workItem from="1727295427665" duration="649000" />
+      <workItem from="1727341580565" duration="6693000" />
     </task>
     <servers />
   </component>
@@ -500,6 +506,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/september2024/My_Calendar.java</url>
+          <line>9</line>
+          <properties class="LeetCode_Daily.september2024.My_Calendar" method="book">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
