@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/october2024/Minimum_String_Length_After_Removing_Substrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/october2024/Longest_Square_Streak_in_an_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/training/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +67,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Minimum_String_Length_After_Removing_Substrings">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.Fibonacci" />
+  <component name="RunManager" selected="Application.Longest_Square_Streak_in_an_Array">
+    <configuration name="Longest_Square_Streak_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.october2024.Longest_Square_Streak_in_an_Array" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="training.*" />
+          <option name="PATTERN" value="LeetCode_Daily.october2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,19 +150,19 @@
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Longest_Square_Streak_in_an_Array" />
       <item itemvalue="Application.Minimum_String_Length_After_Removing_Substrings" />
       <item itemvalue="Application.My_Calendar" />
       <item itemvalue="Application.User" />
       <item itemvalue="Application.test" />
-      <item itemvalue="Application.Fibonacci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Longest_Square_Streak_in_an_Array" />
         <item itemvalue="Application.Minimum_String_Length_After_Removing_Substrings" />
         <item itemvalue="Application.User" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.My_Calendar" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +329,8 @@
       <workItem from="1727090048887" duration="95000" />
       <workItem from="1727295427665" duration="649000" />
       <workItem from="1727341580565" duration="10190000" />
-      <workItem from="1728324411172" duration="360000" />
+      <workItem from="1728324411172" duration="838000" />
+      <workItem from="1730135872573" duration="3167000" />
     </task>
     <servers />
   </component>
@@ -516,15 +515,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="101" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/training/User.java</url>
-          <line>17</line>
-          <properties class="training.User" method="equals">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
