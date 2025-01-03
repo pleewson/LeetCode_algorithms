@@ -5,34 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/f.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Count_Vowel_Strings_in_Ranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Number_of_Ways_to_Split_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/april2024/Longest_Ideal_Subsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/april2024/Longest_Ideal_Subsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/april2024/Nth_Tribonacci_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/april2024/Nth_Tribonacci_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/december2024/Adding_Spaces_to_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/december2024/Adding_Spaces_to_a_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/december2024/Check_if_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/december2024/Check_if_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/july2024/Sort_Array_by_Increasing_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/july2024/Sort_Array_by_Increasing_Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Count_Elements_With_Maximum_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Count_Elements_With_Maximum_Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Custom_Sort_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Custom_Sort_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Find_the_Pivot_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Find_the_Pivot_Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Intersection_of_Two_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Intersection_of_Two_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Linked_List_Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Linked_List_Cycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Middle_of_the_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Middle_of_the_Linked_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Minimum_Common_Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Minimum_Common_Value.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Minimum_Length_of_String_After_Deleting_Similar_Ends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Minimum_Length_of_String_After_Deleting_Similar_Ends.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Remove_Nth_Node_From_End_of_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Remove_Nth_Node_From_End_of_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/march2024/Squares_of_a_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/march2024/Squares_of_a_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/november2024/Count_the_Number_of_Fair_Pairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/november2024/Count_the_Number_of_Fair_Pairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/october2024/Longest_Square_Streak_in_an_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/october2024/Longest_Square_Streak_in_an_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/october2024/Minimum_Number_Of_Removals_To_Make_Mountain_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/october2024/Minimum_Number_Of_Removals_To_Make_Mountain_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/october2024/Minimum_String_Length_After_Removing_Substrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/october2024/Minimum_String_Length_After_Removing_Substrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/september2024/Count_the_Number_of_Consistent_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/september2024/Count_the_Number_of_Consistent_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/september2024/Delete_Nodes_From_Linked_List_Present_in_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/september2024/Delete_Nodes_From_Linked_List_Present_in_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/september2024/Insert_Greatest_Common_Divisors_in_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/september2024/Insert_Greatest_Common_Divisors_in_Linked_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/september2024/My_Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/september2024/My_Calendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +67,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Count_Vowel_Strings_in_Ranges">
+  <component name="RunManager" selected="Application.Number_of_Ways_to_Split_Array">
     <configuration name="Adding_Spaces_to_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.december2024.Adding_Spaces_to_a_String" />
       <module name="LeetCode" />
@@ -146,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minimum_Number_Of_Removals_To_Make_Mountain_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.october2024.Minimum_Number_Of_Removals_To_Make_Mountain_Array" />
+    <configuration name="Number_of_Ways_to_Split_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Number_of_Ways_to_Split_Array" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.october2024.*" />
+          <option name="PATTERN" value="LeetCode_Daily.year2025.january2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,18 +165,18 @@
       <item itemvalue="Application.Single_Number" />
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Count_Vowel_Strings_in_Ranges" />
+      <item itemvalue="Application.Number_of_Ways_to_Split_Array" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Adding_Spaces_to_a_String" />
       <item itemvalue="Application.Check_if_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence" />
-      <item itemvalue="Application.Minimum_Number_Of_Removals_To_Make_Mountain_Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Number_of_Ways_to_Split_Array" />
         <item itemvalue="Application.Count_Vowel_Strings_in_Ranges" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Adding_Spaces_to_a_String" />
         <item itemvalue="Application.Check_if_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence" />
-        <item itemvalue="Application.Minimum_Number_Of_Removals_To_Make_Mountain_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +351,7 @@
       <workItem from="1733160103025" duration="67000" />
       <workItem from="1733160173952" duration="164000" />
       <workItem from="1733160347984" duration="3178000" />
-      <workItem from="1735839691715" duration="6570000" />
+      <workItem from="1735839691715" duration="9189000" />
     </task>
     <servers />
   </component>
@@ -589,6 +563,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Number_of_Ways_to_Split_Array.java</url>
+          <line>10</line>
+          <properties class="LeetCode_Daily.year2025.january2025.Number_of_Ways_to_Split_Array" method="waysToSplitArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
