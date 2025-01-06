@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Number_of_Ways_to_Split_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Unique_Length3_Palindromic_Subsequences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,22 +67,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Number_of_Ways_to_Split_Array">
+  <component name="RunManager" selected="Application.Unique_Length3_Palindromic_Subsequences">
     <configuration name="Adding_Spaces_to_a_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.december2024.Adding_Spaces_to_a_String" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.december2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Check_if_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.december2024.Check_if_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -147,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unique_Length3_Palindromic_Subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Unique_Length3_Palindromic_Subsequences" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.year2025.january2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.test" />
       <module name="LeetCode" />
@@ -166,17 +166,17 @@
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Count_Vowel_Strings_in_Ranges" />
       <item itemvalue="Application.Number_of_Ways_to_Split_Array" />
+      <item itemvalue="Application.Unique_Length3_Palindromic_Subsequences" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Adding_Spaces_to_a_String" />
-      <item itemvalue="Application.Check_if_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Unique_Length3_Palindromic_Subsequences" />
         <item itemvalue="Application.Number_of_Ways_to_Split_Array" />
         <item itemvalue="Application.Count_Vowel_Strings_in_Ranges" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Adding_Spaces_to_a_String" />
-        <item itemvalue="Application.Check_if_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +351,7 @@
       <workItem from="1733160103025" duration="67000" />
       <workItem from="1733160173952" duration="164000" />
       <workItem from="1733160347984" duration="3178000" />
-      <workItem from="1735839691715" duration="9189000" />
+      <workItem from="1735839691715" duration="13039000" />
     </task>
     <servers />
   </component>
@@ -647,6 +647,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/october2024/Minimum_Number_Of_Removals_To_Make_Mountain_Array.java</url>
           <line>50</line>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Unique_Length3_Palindromic_Subsequences.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="115" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
