@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/String_Matching_in_an_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box">
+  <component name="RunManager" selected="Application.String_Matching_in_an_Array">
     <configuration name="Count_Vowel_Strings_in_Ranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Count_Vowel_Strings_in_Ranges" />
       <module name="LeetCode" />
@@ -134,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="String_Matching_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.String_Matching_in_an_Array" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.year2025.january2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unique_Length3_Palindromic_Subsequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Unique_Length3_Palindromic_Subsequences" />
       <module name="LeetCode" />
@@ -147,36 +160,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.test" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box" />
+      <item itemvalue="Application.String_Matching_in_an_Array" />
       <item itemvalue="Application.Count_Vowel_Strings_in_Ranges" />
       <item itemvalue="Application.Number_of_Ways_to_Split_Array" />
       <item itemvalue="Application.Unique_Length3_Palindromic_Subsequences" />
-      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Matching_in_an_Array" />
         <item itemvalue="Application.Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box" />
         <item itemvalue="Application.Unique_Length3_Palindromic_Subsequences" />
         <item itemvalue="Application.Number_of_Ways_to_Split_Array" />
         <item itemvalue="Application.Count_Vowel_Strings_in_Ranges" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +352,7 @@
       <workItem from="1733160173952" duration="164000" />
       <workItem from="1733160347984" duration="3178000" />
       <workItem from="1735839691715" duration="13039000" />
-      <workItem from="1736184902758" duration="950000" />
+      <workItem from="1736184902758" duration="3797000" />
     </task>
     <servers />
   </component>
@@ -574,6 +574,15 @@
           </properties>
           <option name="timeStamp" value="114" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/String_Matching_in_an_Array.java</url>
+          <line>13</line>
+          <properties class="LeetCode_Daily.year2025.january2025.String_Matching_in_an_Array" method="stringMatching">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
           <line>109</line>
@@ -653,11 +662,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Unique_Length3_Palindromic_Subsequences.java</url>
           <line>17</line>
           <option name="timeStamp" value="115" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
