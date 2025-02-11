@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Find the Prefix Common Array of Two Arrays";
+        String name = "Remove All Occurrences of a Substring";
         addUnderscores(name);
     }
 
