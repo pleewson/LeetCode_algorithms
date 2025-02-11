@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Find_the_Prefix_Common_Array_of_Two_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Remove_All_Occurrences_of_a_Substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
     </list>
@@ -68,7 +68,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Find_the_Prefix_Common_Array_of_Two_Arrays">
+  <component name="RunManager" selected="Application.Remove_All_Occurrences_of_a_Substring">
     <configuration name="Count_Prefix_and_Suffix_Pairs_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Count_Prefix_and_Suffix_Pairs_I" />
       <module name="LeetCode" />
@@ -121,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Remove_All_Occurrences_of_a_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.febuary2025.Remove_All_Occurrences_of_a_Substring" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.year2025.febuary2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Search_Insert_Position" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Search_Insert_Position" />
       <module name="LeetCode" />
@@ -131,19 +144,6 @@
     <configuration name="Single_Number" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Single_Number" />
       <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String_Matching_in_an_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.String_Matching_in_an_Array" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.january2025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -165,19 +165,19 @@
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Remove_All_Occurrences_of_a_Substring" />
       <item itemvalue="Application.Find_the_Prefix_Common_Array_of_Two_Arrays" />
       <item itemvalue="Application.Count_Prefix_and_Suffix_Pairs_I" />
       <item itemvalue="Application.Counting_Words_With_a_Given_Prefix" />
-      <item itemvalue="Application.String_Matching_in_an_Array" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Find_the_Prefix_Common_Array_of_Two_Arrays" />
+        <item itemvalue="Application.Remove_All_Occurrences_of_a_Substring" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Find_the_Prefix_Common_Array_of_Two_Arrays" />
         <item itemvalue="Application.Counting_Words_With_a_Given_Prefix" />
         <item itemvalue="Application.Count_Prefix_and_Suffix_Pairs_I" />
-        <item itemvalue="Application.String_Matching_in_an_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +355,8 @@
       <workItem from="1735839691715" duration="13039000" />
       <workItem from="1736184902758" duration="4629000" />
       <workItem from="1736371292610" duration="2733000" />
-      <workItem from="1736847418202" duration="348000" />
+      <workItem from="1736847418202" duration="1220000" />
+      <workItem from="1739283670833" duration="824000" />
     </task>
     <servers />
   </component>
