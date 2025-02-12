@@ -6,14 +6,16 @@ public class test {
 
     public static void main(String[] args) {
 
-        int a = 915;
-        int b = 305;
+//        int a = 915;
+//        int b = 305;
+//
+//        System.out.println(findGCM(a,b));
+//        String word = "word";
+//
+//        System.out.println("word " + word.substring(0,1).equals("w"));
+//        System.out.println("word " + word.substring(word.length()-1,word.length()).equals("d"));
 
-        System.out.println(findGCM(a,b));
-        String word = "word";
-
-        System.out.println("word " + word.substring(0,1).equals("w"));
-        System.out.println("word " + word.substring(word.length()-1,word.length()).equals("d"));
+        System.out.println(sumOfNumber());
     }
 
     public static int findGCM(int a, int b){
@@ -56,6 +58,20 @@ public class test {
         }
 
         return -1;
+    }
+
+    private static int sumOfNumber() {
+        int num = 735; //6
+        int output = 0;
+
+        while (num > 0) {
+            {
+                output += num % 10;
+                num = num / 10;
+            }
+
+        }
+        return output;
     }
 
 

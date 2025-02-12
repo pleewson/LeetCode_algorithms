@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Remove_All_Occurrences_of_a_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,20 +69,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Remove_All_Occurrences_of_a_Substring">
-    <configuration name="Count_Prefix_and_Suffix_Pairs_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Count_Prefix_and_Suffix_Pairs_I" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.january2025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -95,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Counting_Words_With_a_Given_Prefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Counting_Words_With_a_Given_Prefix" />
+    <configuration name="Find_the_Prefix_Common_Array_of_Two_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Find_the_Prefix_Common_Array_of_Two_Arrays" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -108,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_the_Prefix_Common_Array_of_Two_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Find_the_Prefix_Common_Array_of_Two_Arrays" />
+    <configuration name="Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.febuary2025.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.january2025.*" />
+          <option name="PATTERN" value="LeetCode_Daily.year2025.febuary2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,23 +149,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" />
+      <item itemvalue="Application.test" />
       <item itemvalue="Application.Remove_All_Occurrences_of_a_Substring" />
       <item itemvalue="Application.Find_the_Prefix_Common_Array_of_Two_Arrays" />
-      <item itemvalue="Application.Count_Prefix_and_Suffix_Pairs_I" />
-      <item itemvalue="Application.Counting_Words_With_a_Given_Prefix" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Remove_All_Occurrences_of_a_Substring" />
+        <item itemvalue="Application.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Remove_All_Occurrences_of_a_Substring" />
         <item itemvalue="Application.Find_the_Prefix_Common_Array_of_Two_Arrays" />
-        <item itemvalue="Application.Counting_Words_With_a_Given_Prefix" />
-        <item itemvalue="Application.Count_Prefix_and_Suffix_Pairs_I" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +357,8 @@
       <workItem from="1736184902758" duration="4629000" />
       <workItem from="1736371292610" duration="2733000" />
       <workItem from="1736847418202" duration="1220000" />
-      <workItem from="1739283670833" duration="824000" />
+      <workItem from="1739283670833" duration="1178000" />
+      <workItem from="1739395111671" duration="3321000" />
     </task>
     <servers />
   </component>
@@ -587,6 +589,24 @@
           </properties>
           <option name="timeStamp" value="117" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java</url>
+          <line>62</line>
+          <properties class="LeetCode_Daily.test" method="sumOfNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java</url>
+          <line>11</line>
+          <properties class="LeetCode_Daily.year2025.febuary2025.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" method="maximumSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
           <line>109</line>
@@ -654,7 +674,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java</url>
-          <line>31</line>
+          <line>33</line>
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -666,6 +686,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Unique_Length3_Palindromic_Subsequences.java</url>
           <line>17</line>
           <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Remove_All_Occurrences_of_a_Substring.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="118" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
