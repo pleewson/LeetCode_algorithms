@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Remove All Occurrences of a Substring";
+        String name = "Max Sum of a Pair With Equal Sum of Digits";
         addUnderscores(name);
     }
 
