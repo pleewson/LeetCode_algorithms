@@ -3,6 +3,7 @@ package LeetCode_Daily.year2025.febuary2025;
 import java.util.HashMap;
 import java.util.Map;
 
+// https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/submissions/1542256831/
 public class Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits {
     public static void main(String[] args) {
         int[] nums = {18, 43, 36, 13, 7};
@@ -25,13 +26,11 @@ public class Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits {
                 if ((hashMap.get(iValue) + nums[i]) > highestPair) {
                     highestPair = hashMap.get(iValue) + nums[i];
                 }
-            } else {
-                    if (hashMap.get(iValue) < nums[i]) {
-                        hashMap.put(iValue, nums[i]);
-                    }else{
-                        hashMap.put(iValue,nums[i]);
-                    }
-
+                if (hashMap.get(iValue) < nums[i]) {
+                    hashMap.put(iValue, nums[i]);
+                }
+            }else{
+                hashMap.put(iValue,nums[i]);
             }
         }
 
