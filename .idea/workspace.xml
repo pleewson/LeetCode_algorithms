@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -358,7 +357,8 @@
       <workItem from="1736371292610" duration="2733000" />
       <workItem from="1736847418202" duration="1220000" />
       <workItem from="1739283670833" duration="1178000" />
-      <workItem from="1739395111671" duration="3321000" />
+      <workItem from="1739395111671" duration="3620000" />
+      <workItem from="1739482483900" duration="369000" />
     </task>
     <servers />
   </component>
@@ -591,7 +591,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java</url>
-          <line>62</line>
+          <line>67</line>
           <properties class="LeetCode_Daily.test" method="sumOfNumber">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -674,7 +674,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java</url>
-          <line>33</line>
+          <line>38</line>
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -691,6 +691,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Remove_All_Occurrences_of_a_Substring.java</url>
           <line>12</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

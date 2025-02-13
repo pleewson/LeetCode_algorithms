@@ -14,6 +14,11 @@ public class test {
 //
 //        System.out.println("word " + word.substring(0,1).equals("w"));
 //        System.out.println("word " + word.substring(word.length()-1,word.length()).equals("d"));
+        Map<Integer,Integer> testMap = new HashMap<>();
+        testMap.put(1,100);
+        testMap.put(1,200);
+
+        System.out.println(testMap.get(1));
 
         System.out.println(sumOfNumber());
     }
