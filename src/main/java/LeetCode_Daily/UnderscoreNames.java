@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Max Sum of a Pair With Equal Sum of Digits";
+        String name = "Minimum Operations to Exceed Threshold Value II";
         addUnderscores(name);
     }
 
