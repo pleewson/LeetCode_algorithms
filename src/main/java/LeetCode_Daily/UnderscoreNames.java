@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Minimum Operations to Exceed Threshold Value II";
+        String name = "Product of the Last K Numbers";
         addUnderscores(name);
     }
 
