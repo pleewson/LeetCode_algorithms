@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Minimum_Operations_to_Exceed_Threshold_Value_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Minimum_Operations_to_Exceed_Threshold_Value_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Minimum_Operations_to_Exceed_Threshold_Value_II.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Minimum_Operations_to_Exceed_Threshold_Value_II">
+  <component name="RunManager" selected="Application.UnderscoreNames">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -173,8 +172,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Minimum_Operations_to_Exceed_Threshold_Value_II" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Minimum_Operations_to_Exceed_Threshold_Value_II" />
         <item itemvalue="Application.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Remove_All_Occurrences_of_a_Substring" />
@@ -358,7 +357,7 @@
       <workItem from="1736847418202" duration="1220000" />
       <workItem from="1739283670833" duration="1178000" />
       <workItem from="1739395111671" duration="3620000" />
-      <workItem from="1739482483900" duration="4755000" />
+      <workItem from="1739482483900" duration="5726000" />
     </task>
     <servers />
   </component>
