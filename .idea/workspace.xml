@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Find_Unique_Binary_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Find_Elements_in_a_Contaminated_Binary_Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nodes/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nodes/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Find_Unique_Binary_String">
+  <component name="RunManager" selected="Application.Find_Elements_in_a_Contaminated_Binary_Tree">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Unique_Binary_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.febuary2025.Find_Unique_Binary_String" />
+    <configuration name="Find_Elements_in_a_Contaminated_Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.january2025.Find_Elements_in_a_Contaminated_Binary_Tree" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.febuary2025.*" />
+          <option name="PATTERN" value="LeetCode_Daily.year2025.january2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.febuary2025.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" />
+    <configuration name="Find_Unique_Binary_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.febuary2025.Find_Unique_Binary_String" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -166,19 +167,19 @@
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Find_Elements_in_a_Contaminated_Binary_Tree" />
       <item itemvalue="Application.Find_Unique_Binary_String" />
       <item itemvalue="Application.Minimum_Operations_to_Exceed_Threshold_Value_II" />
-      <item itemvalue="Application.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Find_Unique_Binary_String" />
-        <item itemvalue="Application.UnderscoreNames" />
-        <item itemvalue="Application.Minimum_Operations_to_Exceed_Threshold_Value_II" />
-        <item itemvalue="Application.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" />
+        <item itemvalue="Application.Find_Elements_in_a_Contaminated_Binary_Tree" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Find_Unique_Binary_String" />
+        <item itemvalue="Application.Minimum_Operations_to_Exceed_Threshold_Value_II" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +362,8 @@
       <workItem from="1739395111671" duration="3620000" />
       <workItem from="1739482483900" duration="5726000" />
       <workItem from="1739537818825" duration="2629000" />
-      <workItem from="1740082529448" duration="941000" />
+      <workItem from="1740082529448" duration="1538000" />
+      <workItem from="1740129882649" duration="4675000" />
     </task>
     <servers />
   </component>
@@ -593,15 +595,6 @@
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java</url>
-          <line>67</line>
-          <properties class="LeetCode_Daily.test" method="sumOfNumber">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="121" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java</url>
           <line>12</line>
           <properties class="LeetCode_Daily.year2025.febuary2025.Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits" method="maximumSum">
@@ -618,6 +611,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Find_Elements_in_a_Contaminated_Binary_Tree.java</url>
+          <line>40</line>
+          <properties class="LeetCode_Daily.year2025.january2025.Find_Elements_in_a_Contaminated_Binary_Tree" method="recoverTree">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
@@ -685,11 +687,6 @@
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/october2024/Minimum_Number_Of_Removals_To_Make_Mountain_Array.java</url>
           <line>50</line>
           <option name="timeStamp" value="106" />
@@ -703,6 +700,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/febuary2025/Remove_All_Occurrences_of_a_Substring.java</url>
           <line>12</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/january2025/Find_Elements_in_a_Contaminated_Binary_Tree.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="128" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

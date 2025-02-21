@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Find Unique Binary String";
+        String name = "Find Elements in a Contaminated Binary Tree";
         addUnderscores(name);
     }
 
