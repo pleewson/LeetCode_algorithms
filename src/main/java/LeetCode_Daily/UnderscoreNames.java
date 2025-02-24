@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Binary Tree Postorder Traversal";
+        String name = "Reverse Integer";
         addUnderscores(name);
     }
 
