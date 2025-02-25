@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Reverse Integer";
+        String name = "Number of Sub-arrays With Odd Sum";
         addUnderscores(name);
     }
 
