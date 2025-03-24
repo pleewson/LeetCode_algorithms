@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Merge Two 2D Arrays by Summing Values";
+        String name = "Count Days Without Meetings";
         addUnderscores(name);
     }
 

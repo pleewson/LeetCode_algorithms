@@ -1,10 +1,10 @@
-package LeetCode_Daily.year2025;
+package LeetCode_Daily.year2025.march2025;
 
 import java.util.*;
 
 //https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02
 
-public class march2025 {
+public class Merge_Two_2D_Arrays_by_Summing_Values {
     public static void main(String[] args) {
         int[][] arr1 = {
                 {1, 2},
