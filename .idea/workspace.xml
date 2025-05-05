@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Spiral_Matrix_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Spiral_Matrix_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Spiral_Matrix_II.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -385,7 +384,8 @@
       <workItem from="1743709640575" duration="937000" />
       <workItem from="1743711766350" duration="1000" />
       <workItem from="1743786639163" duration="816000" />
-      <workItem from="1746037940801" duration="2502000" />
+      <workItem from="1746037940801" duration="3232000" />
+      <workItem from="1746474795463" duration="3121000" />
     </task>
     <servers />
   </component>
@@ -696,6 +696,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Medium/Spiral_Matrix_II.java</url>
+          <line>12</line>
+          <properties class="LeetCode_Medium.Spiral_Matrix_II" method="generateMatrix">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
