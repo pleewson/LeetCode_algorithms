@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/april2025/Find_Numbers_with_Even_Number_of_Digits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Spiral_Matrix_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Medium/Spiral_Matrix_II.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,7 @@
       <recent name="LeetCode_Daily" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Find_Numbers_with_Even_Number_of_Digits">
+  <component name="RunManager" selected="Application.Spiral_Matrix_II">
     <configuration name="Count_Days_Without_Meetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.march2025.Count_Days_Without_Meetings" />
       <module name="LeetCode" />
@@ -115,19 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge_Two_2D_Arrays_by_Summing_Values" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.march2025.Merge_Two_2D_Arrays_by_Summing_Values" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.march2025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Search_Insert_Position" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Search_Insert_Position" />
       <module name="LeetCode" />
@@ -138,6 +122,19 @@
     <configuration name="Single_Number" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Single_Number" />
       <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spiral_Matrix_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Medium.Spiral_Matrix_II" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,18 +170,18 @@
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
       <item itemvalue="Application.Find_Numbers_with_Even_Number_of_Digits" />
+      <item itemvalue="Application.Spiral_Matrix_II" />
       <item itemvalue="Application.Count_Days_Without_Meetings" />
-      <item itemvalue="Application.Merge_Two_2D_Arrays_by_Summing_Values" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Find_Numbers_with_Even_Number_of_Digits" />
+        <item itemvalue="Application.Spiral_Matrix_II" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Find_Numbers_with_Even_Number_of_Digits" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Count_Days_Without_Meetings" />
-        <item itemvalue="Application.Merge_Two_2D_Arrays_by_Summing_Values" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +384,8 @@
       <workItem from="1743709640575" duration="937000" />
       <workItem from="1743711766350" duration="1000" />
       <workItem from="1743786639163" duration="816000" />
-      <workItem from="1746037940801" duration="638000" />
+      <workItem from="1746037940801" duration="3232000" />
+      <workItem from="1746474795463" duration="4084000" />
     </task>
     <servers />
   </component>
@@ -698,6 +696,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Medium/Spiral_Matrix_II.java</url>
+          <line>12</line>
+          <properties class="LeetCode_Medium.Spiral_Matrix_II" method="generateMatrix">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
