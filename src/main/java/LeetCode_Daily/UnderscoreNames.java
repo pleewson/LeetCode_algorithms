@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Spiral Matrix II";
+        String name = "Build Array from Permutation";
         addUnderscores(name);
     }
 
