@@ -1,6 +1,7 @@
 package LeetCode_Daily;
 
-import java.util.Comparator;
+import training.Person;
+
 import java.util.List;
 
 public class test {
@@ -32,6 +33,9 @@ public class test {
             }
         }
 
+
+        String testNum = "012";
+        System.out.println(Integer.valueOf(testNum));
 
     }
 

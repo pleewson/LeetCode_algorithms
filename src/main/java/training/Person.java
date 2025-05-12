@@ -1,4 +1,4 @@
-package LeetCode_Daily;
+package training;
 
 
 import java.util.List;

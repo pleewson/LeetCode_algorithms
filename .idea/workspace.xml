@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Build_Array_from_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Finding_3_Digit_Even_Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +75,7 @@
       <recent name="LeetCode_Daily" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Build_Array_from_Permutation">
+  <component name="RunManager" selected="Application.Finding_3_Digit_Even_Numbers">
     <configuration name="Build_Array_from_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Build_Array_from_Permutation" />
       <module name="LeetCode" />
@@ -100,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Numbers_with_Even_Number_of_Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.april2025.Find_Numbers_with_Even_Number_of_Digits" />
+    <configuration name="Finding_3_Digit_Even_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Finding_3_Digit_Even_Numbers" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.april2025.*" />
+          <option name="PATTERN" value="LeetCode_Daily.year2025.may2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,7 +147,7 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,7 +160,7 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,19 +172,19 @@
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Finding_3_Digit_Even_Numbers" />
       <item itemvalue="Application.Build_Array_from_Permutation" />
-      <item itemvalue="Application.Find_Numbers_with_Even_Number_of_Digits" />
       <item itemvalue="Application.Spiral_Matrix_II" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Build_Array_from_Permutation" />
-        <item itemvalue="Application.UnderscoreNames" />
-        <item itemvalue="Application.Spiral_Matrix_II" />
-        <item itemvalue="Application.Find_Numbers_with_Even_Number_of_Digits" />
+        <item itemvalue="Application.Finding_3_Digit_Even_Numbers" />
         <item itemvalue="Application.test" />
+        <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Build_Array_from_Permutation" />
+        <item itemvalue="Application.Spiral_Matrix_II" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +388,8 @@
       <workItem from="1743711766350" duration="1000" />
       <workItem from="1743786639163" duration="816000" />
       <workItem from="1746037940801" duration="3232000" />
-      <workItem from="1746474795463" duration="5167000" />
+      <workItem from="1746474795463" duration="5582000" />
+      <workItem from="1747076322648" duration="5654000" />
     </task>
     <servers />
   </component>
@@ -706,6 +709,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Finding_3_Digit_Even_Numbers.java</url>
+          <line>11</line>
+          <properties class="LeetCode_Daily.year2025.may2025.Finding_3_Digit_Even_Numbers" method="findEvenNumbers">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
