@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Finding 3-Digit Even Numbers";
+        String name = "Total Characters in String After Transformations I";
         addUnderscores(name);
     }
 
