@@ -56,4 +56,9 @@ public class Total_Characters_in_String_After_Transformations_I {
         return holder.length();
     }
 
+
+    public static int lengthAfterTransformations2(String s, int t) {
+        
+        return -1;
+    }
 }
