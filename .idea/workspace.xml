@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Sort_Colors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Longest_Unequal_Adjacent_Groups_Subsequence_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Longest_Unequal_Adjacent_Groups_Subsequence_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <recent name="LeetCode_Daily" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Longest_Unequal_Adjacent_Groups_Subsequence_I">
+  <component name="RunManager" selected="Application.Sort_Colors">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -126,6 +127,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sort_Colors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Sort_Colors" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.year2025.may2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Total_Characters_in_String_After_Transformations_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Total_Characters_in_String_After_Transformations_I" />
       <module name="LeetCode" />
@@ -152,36 +166,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.test" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="training.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Sort_Colors" />
       <item itemvalue="Application.Longest_Unequal_Adjacent_Groups_Subsequence_I" />
       <item itemvalue="Application.Total_Characters_in_String_After_Transformations_I" />
       <item itemvalue="Application.Finding_3_Digit_Even_Numbers" />
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Longest_Unequal_Adjacent_Groups_Subsequence_I" />
+        <item itemvalue="Application.Sort_Colors" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Longest_Unequal_Adjacent_Groups_Subsequence_I" />
         <item itemvalue="Application.Total_Characters_in_String_After_Transformations_I" />
         <item itemvalue="Application.Finding_3_Digit_Even_Numbers" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +389,8 @@
       <workItem from="1746474795463" duration="5582000" />
       <workItem from="1747076322648" duration="6152000" />
       <workItem from="1747162925498" duration="4382000" />
-      <workItem from="1747344929320" duration="2427000" />
+      <workItem from="1747344929320" duration="3764000" />
+      <workItem from="1747476954154" duration="771000" />
     </task>
     <servers />
   </component>

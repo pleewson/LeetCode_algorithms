@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Longest Unequal Adjacent Groups Subsequence I";
+        String name = "Sort Colors";
         addUnderscores(name);
     }
 
