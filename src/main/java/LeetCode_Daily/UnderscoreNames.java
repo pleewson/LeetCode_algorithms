@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Sort Colors";
+        String name = "Type of Triangle";
         addUnderscores(name);
     }
 
