@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Type of Triangle";
+        String name = "Zero Array Transformation I";
         addUnderscores(name);
     }
 
