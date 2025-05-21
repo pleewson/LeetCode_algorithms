@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Zero Array Transformation I";
+        String name = "Set Matrix Zeroes";
         addUnderscores(name);
     }
 
