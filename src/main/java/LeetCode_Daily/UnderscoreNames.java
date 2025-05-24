@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Set Matrix Zeroes";
+        String name = "Find Words Containing Character";
         addUnderscores(name);
     }
 
