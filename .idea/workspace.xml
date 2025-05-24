@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Zero_Array_Transformation_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Find_Words_Containing_Character.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
     </list>
@@ -73,7 +73,7 @@
       <recent name="LeetCode_Daily" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zero_Array_Transformation_I">
+  <component name="RunManager" selected="Application.Find_Words_Containing_Character">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_Unequal_Adjacent_Groups_Subsequence_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Longest_Unequal_Adjacent_Groups_Subsequence_I" />
+    <configuration name="Find_Words_Containing_Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Find_Words_Containing_Character" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -107,15 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Single_Number" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Single_Number" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sort_Colors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Sort_Colors" />
+    <configuration name="Set_Matrix_Zeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Set_Matrix_Zeroes" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -123,6 +116,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Single_Number" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Easy.Single_Number" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,19 +170,19 @@
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Find_Words_Containing_Character" />
+      <item itemvalue="Application.Set_Matrix_Zeroes" />
       <item itemvalue="Application.Zero_Array_Transformation_I" />
       <item itemvalue="Application.Type_of_Triangle" />
-      <item itemvalue="Application.Longest_Unequal_Adjacent_Groups_Subsequence_I" />
-      <item itemvalue="Application.Sort_Colors" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zero_Array_Transformation_I" />
+        <item itemvalue="Application.Find_Words_Containing_Character" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Set_Matrix_Zeroes" />
+        <item itemvalue="Application.Zero_Array_Transformation_I" />
         <item itemvalue="Application.Type_of_Triangle" />
-        <item itemvalue="Application.Sort_Colors" />
-        <item itemvalue="Application.Longest_Unequal_Adjacent_Groups_Subsequence_I" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +392,9 @@
       <workItem from="1747344929320" duration="3764000" />
       <workItem from="1747476954154" duration="1115000" />
       <workItem from="1747644670554" duration="1868000" />
-      <workItem from="1747746261785" duration="2246000" />
+      <workItem from="1747746261785" duration="2714000" />
+      <workItem from="1747848567321" duration="3733000" />
+      <workItem from="1748080012453" duration="655000" />
     </task>
     <servers />
   </component>
@@ -742,12 +744,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Zero_Array_Transformation_I.java</url>
-          <line>22</line>
+          <line>24</line>
           <properties class="LeetCode_Daily.year2025.may2025.Zero_Array_Transformation_I" method="isZeroArray">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Set_Matrix_Zeroes.java</url>
+          <line>25</line>
+          <properties class="LeetCode_Daily.year2025.may2025.Set_Matrix_Zeroes" method="setZeroes">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
@@ -850,6 +861,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$Minimum_Operations_to_Exceed_Threshold_Value_II.ic" NAME="Minimum_Operations_to_Exceed_Threshold_Value_II Coverage Results" MODIFIED="1739484720045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>LeetCode_Daily.year2025.febuary2025.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$Zero_Array_Transformation_I.ic" NAME="Zero_Array_Transformation_I Coverage Results" MODIFIED="1747748729493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>LeetCode_Daily.year2025.may2025.*</FILTER>
     </SUITE>
   </component>
 </project>
