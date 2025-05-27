@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/may2025/Find_Words_Containing_Character.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <recent name="LeetCode_Daily" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Find_Words_Containing_Character">
+  <component name="RunManager" selected="Application.UnderscoreNames">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -178,8 +176,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Find_Words_Containing_Character" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Find_Words_Containing_Character" />
         <item itemvalue="Application.Set_Matrix_Zeroes" />
         <item itemvalue="Application.Zero_Array_Transformation_I" />
         <item itemvalue="Application.Type_of_Triangle" />
@@ -394,7 +392,8 @@
       <workItem from="1747644670554" duration="1868000" />
       <workItem from="1747746261785" duration="2714000" />
       <workItem from="1747848567321" duration="3733000" />
-      <workItem from="1748080012453" duration="655000" />
+      <workItem from="1748080012453" duration="1293000" />
+      <workItem from="1748171379789" duration="1000" />
     </task>
     <servers />
   </component>
