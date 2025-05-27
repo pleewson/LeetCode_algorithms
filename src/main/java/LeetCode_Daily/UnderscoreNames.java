@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Find Words Containing Character";
+        String name = "Divisible and Non-divisible Sums Difference";
         addUnderscores(name);
     }
 
