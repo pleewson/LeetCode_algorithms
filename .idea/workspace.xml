@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/june2025/Maximum_Difference_Between_Even_and_Odd_Frequency_I.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <recent name="LeetCode_Daily" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnderscoreNames">
+  <component name="RunManager" selected="Application.Maximum_Difference_Between_Even_and_Odd_Frequency_I">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -91,6 +93,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode_Daily.year2025.may2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maximum_Difference_Between_Even_and_Odd_Frequency_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.june2025.Maximum_Difference_Between_Even_and_Odd_Frequency_I" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.year2025.june2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +140,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Type_of_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Type_of_Triangle" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.may2025.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UnderscoreNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.UnderscoreNames" />
       <module name="LeetCode" />
@@ -168,19 +170,19 @@
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Maximum_Difference_Between_Even_and_Odd_Frequency_I" />
       <item itemvalue="Application.Find_Words_Containing_Character" />
       <item itemvalue="Application.Set_Matrix_Zeroes" />
       <item itemvalue="Application.Zero_Array_Transformation_I" />
-      <item itemvalue="Application.Type_of_Triangle" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maximum_Difference_Between_Even_and_Odd_Frequency_I" />
         <item itemvalue="Application.UnderscoreNames" />
         <item itemvalue="Application.Find_Words_Containing_Character" />
         <item itemvalue="Application.Set_Matrix_Zeroes" />
         <item itemvalue="Application.Zero_Array_Transformation_I" />
-        <item itemvalue="Application.Type_of_Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -394,6 +396,10 @@
       <workItem from="1747848567321" duration="3733000" />
       <workItem from="1748080012453" duration="1293000" />
       <workItem from="1748171379789" duration="1000" />
+      <workItem from="1748319961160" duration="1570000" />
+      <workItem from="1748584708072" duration="37000" />
+      <workItem from="1748803935820" duration="486000" />
+      <workItem from="1749545256453" duration="3596000" />
     </task>
     <servers />
   </component>
@@ -853,6 +859,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/march2025/Count_Days_Without_Meetings.java</url>
           <line>17</line>
           <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/june2025/Maximum_Difference_Between_Even_and_Odd_Frequency_I.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="169" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
