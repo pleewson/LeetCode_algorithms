@@ -10,7 +10,6 @@ public class Single_Number_III {
 
         int[] arr = {1, 2, 1, 3, 2, 5};
         System.out.println(singleNumber(arr));
-
     }
 
     public static int[] singleNumber(int[] nums) {
