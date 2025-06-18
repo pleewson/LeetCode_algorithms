@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Maximum Difference Between Increasing Elements";
+        String name = "Divide Array Into Arrays With Max Difference";
         addUnderscores(name);
     }
 

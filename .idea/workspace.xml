@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/june2025/Maximum_Difference_Between_Increasing_Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/june2025/Divide_Array_Into_Arrays_With_Max_Difference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
     </list>
@@ -73,7 +73,7 @@
       <recent name="LeetCode_Daily" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Maximum_Difference_Between_Increasing_Elements">
+  <component name="RunManager" selected="Application.Divide_Array_Into_Arrays_With_Max_Difference">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Find_Words_Containing_Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.may2025.Find_Words_Containing_Character" />
+    <configuration name="Divide_Array_Into_Arrays_With_Max_Difference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.june2025.Divide_Array_Into_Arrays_With_Max_Difference" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.may2025.*" />
+          <option name="PATTERN" value="LeetCode_Daily.year2025.june2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,19 +170,19 @@
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
       <item itemvalue="Application.Maximum_Difference_Between_Increasing_Elements" />
       <item itemvalue="Application.Single_Number_III" />
       <item itemvalue="Application.Maximum_Difference_Between_Even_and_Odd_Frequency_I" />
-      <item itemvalue="Application.Find_Words_Containing_Character" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Maximum_Difference_Between_Increasing_Elements" />
+        <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Maximum_Difference_Between_Increasing_Elements" />
         <item itemvalue="Application.Single_Number_III" />
         <item itemvalue="Application.Maximum_Difference_Between_Even_and_Odd_Frequency_I" />
-        <item itemvalue="Application.Find_Words_Containing_Character" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +402,8 @@
       <workItem from="1749545256453" duration="4530000" />
       <workItem from="1749637749770" duration="1751000" />
       <workItem from="1749762415991" duration="1387000" />
-      <workItem from="1750079261343" duration="586000" />
+      <workItem from="1750079261343" duration="1509000" />
+      <workItem from="1750248745805" duration="2312000" />
     </task>
     <servers />
   </component>
@@ -767,6 +768,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/june2025/Maximum_Difference_Between_Increasing_Elements.java</url>
+          <line>8</line>
+          <properties class="LeetCode_Daily.year2025.june2025.Maximum_Difference_Between_Increasing_Elements" method="maximumDifference">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/june2025/Divide_Array_Into_Arrays_With_Max_Difference.java</url>
+          <line>20</line>
+          <properties class="LeetCode_Daily.year2025.june2025.Divide_Array_Into_Arrays_With_Max_Difference" method="divideArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
