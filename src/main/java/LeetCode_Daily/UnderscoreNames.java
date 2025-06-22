@@ -2,7 +2,7 @@ package LeetCode_Daily;
 
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Divide Array Into Arrays With Max Difference";
+        String name = "Divide a String Into Groups of Size k";
         addUnderscores(name);
     }
 
