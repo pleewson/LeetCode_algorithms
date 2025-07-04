@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/june2025/Divide_a_String_Into_Groups_of_Size_k.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/july2025/Find_the_K_th_Character_in_String_Game_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/f.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <recent name="LeetCode_Daily" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Divide_a_String_Into_Groups_of_Size_k">
+  <component name="RunManager" selected="Application.Find_the_K_th_Character_in_String_Game_II">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -113,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Find_the_K_th_Character_in_String_Game_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.july2025.Find_the_K_th_Character_in_String_Game_II" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.year2025.july2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Maximum_Difference_Between_Increasing_Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.june2025.Maximum_Difference_Between_Increasing_Elements" />
       <module name="LeetCode" />
@@ -140,19 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Single_Number_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Medium.Single_Number_III" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UnderscoreNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.UnderscoreNames" />
       <module name="LeetCode" />
@@ -170,19 +171,19 @@
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Find_the_K_th_Character_in_String_Game_II" />
       <item itemvalue="Application.Divide_a_String_Into_Groups_of_Size_k" />
       <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
       <item itemvalue="Application.Maximum_Difference_Between_Increasing_Elements" />
-      <item itemvalue="Application.Single_Number_III" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Divide_a_String_Into_Groups_of_Size_k" />
+        <item itemvalue="Application.Find_the_K_th_Character_in_String_Game_II" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Divide_a_String_Into_Groups_of_Size_k" />
         <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
         <item itemvalue="Application.Maximum_Difference_Between_Increasing_Elements" />
-        <item itemvalue="Application.Single_Number_III" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +405,8 @@
       <workItem from="1749762415991" duration="1387000" />
       <workItem from="1750079261343" duration="1509000" />
       <workItem from="1750248745805" duration="3156000" />
-      <workItem from="1750618560149" duration="2416000" />
+      <workItem from="1750618560149" duration="2637000" />
+      <workItem from="1751653113203" duration="3593000" />
     </task>
     <servers />
   </component>
@@ -790,12 +792,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/june2025/Divide_a_String_Into_Groups_of_Size_k.java</url>
-          <line>9</line>
+          <line>11</line>
           <properties class="LeetCode_Daily.year2025.june2025.Divide_a_String_Into_Groups_of_Size_k" method="divideString">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/july2025/Find_the_K_th_Character_in_String_Game_II.java</url>
+          <line>15</line>
+          <properties class="LeetCode_Daily.year2025.july2025.Find_the_K_th_Character_in_String_Game_II" method="kthCharacter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
