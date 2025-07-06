@@ -1,8 +1,6 @@
-package LeetCode_Daily;
-
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Find the K-th Character in String Game II";
+        String name = "Finding Pairs With a Certain Sum";
         addUnderscores(name);
     }
 

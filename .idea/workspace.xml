@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/july2025/Find_the_K_th_Character_in_String_Game_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/july2025/Finding_Pairs_With_a_Certain_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/july2025/additional/FindSumPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2024/f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnderscoreNames.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +73,11 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="LeetCode_Daily" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Find_the_K_th_Character_in_String_Game_II">
+  <component name="RunManager" selected="Application.UnderscoreNames">
     <configuration name="Count_the_Number_of_Fair_Pairs" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.november2024.Count_the_Number_of_Fair_Pairs" />
       <module name="LeetCode" />
@@ -155,7 +158,7 @@
       </method>
     </configuration>
     <configuration name="UnderscoreNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.UnderscoreNames" />
+      <option name="MAIN_CLASS_NAME" value="UnderscoreNames" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -179,8 +182,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Find_the_K_th_Character_in_String_Game_II" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Find_the_K_th_Character_in_String_Game_II" />
         <item itemvalue="Application.Divide_a_String_Into_Groups_of_Size_k" />
         <item itemvalue="Application.Divide_Array_Into_Arrays_With_Max_Difference" />
         <item itemvalue="Application.Maximum_Difference_Between_Increasing_Elements" />
@@ -406,7 +409,8 @@
       <workItem from="1750079261343" duration="1509000" />
       <workItem from="1750248745805" duration="3156000" />
       <workItem from="1750618560149" duration="2637000" />
-      <workItem from="1751653113203" duration="3593000" />
+      <workItem from="1751653113203" duration="10023000" />
+      <workItem from="1751834235572" duration="7000" />
     </task>
     <servers />
   </component>
@@ -801,7 +805,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/july2025/Find_the_K_th_Character_in_String_Game_II.java</url>
-          <line>15</line>
+          <line>19</line>
           <properties class="LeetCode_Daily.year2025.july2025.Find_the_K_th_Character_in_String_Game_II" method="kthCharacter">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
