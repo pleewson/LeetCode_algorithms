@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/july2025/Finding_Pairs_With_a_Certain_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/july2025/additional/FindSumPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnderscoreNames.java" afterDir="false" />
-    </list>
+    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -411,6 +406,7 @@
       <workItem from="1750618560149" duration="2637000" />
       <workItem from="1751653113203" duration="10023000" />
       <workItem from="1751834235572" duration="7000" />
+      <workItem from="1751834254145" duration="63000" />
     </task>
     <servers />
   </component>
