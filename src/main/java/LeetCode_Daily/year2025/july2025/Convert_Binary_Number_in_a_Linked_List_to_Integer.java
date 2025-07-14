@@ -6,8 +6,7 @@ import java.util.ArrayList;
 
 public class Convert_Binary_Number_in_a_Linked_List_to_Integer {
 
-
-    public int getDecimalValue(ListNode head) {
+    public static int getDecimalValue(ListNode head) {
         ArrayList<Integer> arrayList = new ArrayList<>();
         arrayList.add(head.val);
 
@@ -18,13 +17,14 @@ public class Convert_Binary_Number_in_a_Linked_List_to_Integer {
 
         int multiply = 0;
         int sum = 0;
-        for (int i = arrayList.size() ; i >= 0; i--) {
-            if(i == 1){
-                sum += i*multiply
+        for (int i = arrayList.size()-1 ; i >= 0; i--) {
+            if(arrayList.get(i) == 1){
+                sum += Math.pow(2,multiply);
             }
+            multiply++;
         }
 
-        return -1;
+        return sum;
     }
 
 }
