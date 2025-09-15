@@ -1,6 +1,6 @@
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Maximum Erasure Value";
+        String name = "Maximum Number of Words You Can Type";
         addUnderscores(name);
     }
 
