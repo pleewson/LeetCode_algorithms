@@ -19,7 +19,7 @@ public class Design_Spreadsheet {
 
         void setCell(String cell, int value) {
             if (hashMap.containsKey(cell)) {
-                hashMap.put(cell, hashMap.get(cell) + value);
+                hashMap.put(cell, value);
             } else {
                 hashMap.put(cell, value);
             }
@@ -52,10 +52,14 @@ public class Design_Spreadsheet {
                     value = sb.toString();
                     sign.add(c);
                     sb.delete(0, sb.length());
-                    if (value.startsWith("A-Z")) {
-                        values.add(hashMap.get(value));
+                    if (value.matches("^[A-Z].*")) {
+                        if (hashMap.containsKey(value)){
+                            values.add(hashMap.get(value));
+                        } else {
+                            values.add(0);
+                        }
                     } else {
-                        values.add(hashMap.get(value));
+                        values.add(Integer.parseInt(value));
                     }
                 } else {
                     somethingMore = true;
@@ -68,8 +72,12 @@ public class Design_Spreadsheet {
                     sb.append(formulaArr[i]);
                 }
                 value = sb.toString();
-                if (value.startsWith("A-Z")) {
-                    values.add(hashMap.get(value));
+                if (value.matches("^[A-Z].*")) {
+                    if (hashMap.containsKey(value)){
+                        values.add(hashMap.get(value));
+                    } else {
+                        values.add(0);
+                    }
                 } else {
                     values.add(Integer.parseInt(value));
                 }
