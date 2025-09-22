@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/july2025/Maximum_Score_From_Removing_Substrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/september2025/Maximum_Number_of_Words_You_Can_Type.java" afterDir="false" />
+    <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="Design_Spreadsheet -daily -accepted">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/september2025/Count_Elements_With_Maximum_Frequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnderscoreNames.java" afterDir="false" />
     </list>
@@ -56,6 +55,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/adrianplewa/Documents/GitHub/LeetCode&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -77,13 +77,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Maximum_Number_of_Words_You_Can_Type">
-    <configuration name="Convert_Binary_Number_in_a_Linked_List_to_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.july2025.Convert_Binary_Number_in_a_Linked_List_to_Integer" />
+  <component name="RunManager" selected="Application.Count_Elements_With_Maximum_Frequency">
+    <configuration name="Count_Elements_With_Maximum_Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.september2025.Count_Elements_With_Maximum_Frequency" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.july2025.*" />
+          <option name="PATTERN" value="LeetCode_Daily.year2025.september2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,19 +97,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LeetCode_Daily.november2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Find_the_K_th_Character_in_String_Game_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.july2025.Find_the_K_th_Character_in_String_Game_II" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.july2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,23 +157,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.september2025.test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode_Daily.year2025.september2025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
+      <item itemvalue="Application.test" />
       <item itemvalue="Application.Maximum_Number_of_Words_You_Can_Type" />
       <item itemvalue="Application.Maximum_Erasure_Value" />
-      <item itemvalue="Application.Convert_Binary_Number_in_a_Linked_List_to_Integer" />
-      <item itemvalue="Application.Find_the_K_th_Character_in_String_Game_II" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Maximum_Number_of_Words_You_Can_Type" />
+        <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Maximum_Number_of_Words_You_Can_Type" />
         <item itemvalue="Application.Maximum_Erasure_Value" />
-        <item itemvalue="Application.Convert_Binary_Number_in_a_Linked_List_to_Integer" />
-        <item itemvalue="Application.Find_the_K_th_Character_in_String_Game_II" />
       </list>
     </recent_temporary>
   </component>
@@ -414,8 +414,27 @@
       <workItem from="1751834254145" duration="63000" />
       <workItem from="1752529258135" duration="1905000" />
       <workItem from="1753189663867" duration="9526000" />
-      <workItem from="1757954743905" duration="851000" />
+      <workItem from="1757954743905" duration="1456000" />
+      <workItem from="1758314534319" duration="7142000" />
+      <workItem from="1758572433747" duration="1874000" />
     </task>
+    <task id="LOCAL-00001" summary="Design_Spreadsheet -daily -in progress">
+      <option name="closed" value="true" />
+      <created>1758318951949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758318951949</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Design_Spreadsheet -daily -accepted">
+      <option name="closed" value="true" />
+      <created>1758321510016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758321510017</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,6 +453,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Design_Spreadsheet -daily -in progress" />
+    <MESSAGE value="Design_Spreadsheet -daily -accepted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design_Spreadsheet -daily -accepted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -824,6 +846,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/september2025/Count_Elements_With_Maximum_Frequency.java</url>
+          <line>11</line>
+          <properties class="LeetCode_Daily.year2025.september2025.Count_Elements_With_Maximum_Frequency" method="maxFrequencyElements">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/LeetCode_Easy/Longest_Common_Prefix.java</url>
