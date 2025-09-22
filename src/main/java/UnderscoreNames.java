@@ -1,6 +1,6 @@
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Maximum Number of Words You Can Type";
+        String name = "Count Elements With Maximum Frequency";
         addUnderscores(name);
     }
 
