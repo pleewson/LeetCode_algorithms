@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c3df50-1450-4dc4-bf8f-095b216b5195" name="Changes" comment="Design_Spreadsheet -daily -accepted">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/september2025/Count_Elements_With_Maximum_Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LeetCode_Daily/year2025/october2025/Increment_Submatrices_by_One.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/UnderscoreNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnderscoreNames.java" afterDir="false" />
     </list>
@@ -48,27 +48,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/adrianplewa/Documents/GitHub/LeetCode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.UnderscoreNames.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/adrianplewa/Documents/GitHub/LeetCode_algorithms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="LeetCode_Daily" />
@@ -77,7 +81,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Count_Elements_With_Maximum_Frequency">
+  <component name="RunManager" selected="Application.Increment_Submatrices_by_One">
     <configuration name="Count_Elements_With_Maximum_Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.september2025.Count_Elements_With_Maximum_Frequency" />
       <module name="LeetCode" />
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maximum_Erasure_Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.july2025.Maximum_Erasure_Value" />
+    <configuration name="Increment_Submatrices_by_One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode_Daily.year2025.october2025.Increment_Submatrices_by_One" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode_Daily.year2025.july2025.*" />
+          <option name="PATTERN" value="LeetCode_Daily.year2025.october2025.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,21 +178,29 @@
       <item itemvalue="Application.Count_the_Number_of_Fair_Pairs" />
       <item itemvalue="Application.Search_Insert_Position" />
       <item itemvalue="Application.Single_Number" />
+      <item itemvalue="Application.Increment_Submatrices_by_One" />
       <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Maximum_Number_of_Words_You_Can_Type" />
-      <item itemvalue="Application.Maximum_Erasure_Value" />
       <item itemvalue="Application.UnderscoreNames" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
+        <item itemvalue="Application.Increment_Submatrices_by_One" />
         <item itemvalue="Application.UnderscoreNames" />
+        <item itemvalue="Application.Count_Elements_With_Maximum_Frequency" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Maximum_Number_of_Words_You_Can_Type" />
-        <item itemvalue="Application.Maximum_Erasure_Value" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-84258761d1cc-intellij.indexing.shared.core-IU-243.28141.18" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.28141.18" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -417,6 +429,7 @@
       <workItem from="1757954743905" duration="1456000" />
       <workItem from="1758314534319" duration="7142000" />
       <workItem from="1758572433747" duration="1874000" />
+      <workItem from="1763131640608" duration="532000" />
     </task>
     <task id="LOCAL-00001" summary="Design_Spreadsheet -daily -in progress">
       <option name="closed" value="true" />

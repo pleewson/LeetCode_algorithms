@@ -1,6 +1,6 @@
 public class UnderscoreNames {
     public static void main(String[] args) {
-        String name = "Count Elements With Maximum Frequency";
+        String name = "Increment Submatrices by One";
         addUnderscores(name);
     }
 
@@ -9,5 +9,4 @@ public class UnderscoreNames {
         System.out.println(replacedName);
         return name;
     }
-
 }
