@@ -1,4 +1,4 @@
-package LeetCode_Daily.year2026.may2025;
+package LeetCode_Daily.year2026.may2026;
 
 import java.util.Arrays;
 
